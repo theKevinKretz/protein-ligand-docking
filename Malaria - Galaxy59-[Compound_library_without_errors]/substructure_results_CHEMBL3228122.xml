@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response><molecules><molecule><atc_classifications/><availability_type>-1</availability_type><biotherapeutic/><black_box_warning/><chebi_par_id/><chirality>-1</chirality><cross_references/><dosed_ingredient/><first_approval/><first_in_class>-1</first_in_class><helm_notation/><indication_class/><inorganic_flag>-1</inorganic_flag><max_phase/><molecule_chembl_id>CHEMBL3228122</molecule_chembl_id><molecule_hierarchy><molecule_chembl_id>CHEMBL3228122</molecule_chembl_id><parent_chembl_id>CHEMBL3228122</parent_chembl_id></molecule_hierarchy><molecule_properties><alogp>1.13</alogp><aromatic_rings>1</aromatic_rings><cx_logd>1.04</cx_logd><cx_logp>1.04</cx_logp><cx_most_apka/><cx_most_bpka/><full_molformula>C6H8FNOS</full_molformula><full_mwt>161.20</full_mwt><hba>3</hba><hba_lipinski>2</hba_lipinski><hbd>1</hbd><hbd_lipinski>1</hbd_lipinski><heavy_atoms>10</heavy_atoms><molecular_species>NEUTRAL</molecular_species><mw_freebase>161.20</mw_freebase><mw_monoisotopic>161.0311</mw_monoisotopic><num_lipinski_ro5_violations/><num_ro5_violations/><psa>33.12</psa><qed_weighted>0.70</qed_weighted><ro3_pass>Y</ro3_pass><rtb>2</rtb></molecule_properties><molecule_structures><canonical_smiles>Cc1nc(F)sc1CCO</canonical_smiles><molfile>
+     RDKit          2D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+   -1.5467    0.6689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2141    0.1839    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9592   -0.6006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1342   -0.6006    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8792    0.1839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5467    1.4939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0946    0.4389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0769    1.2458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8616    1.5008    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4441   -1.2681    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  1  5  2  0
+  1  6  1  0
+  5  7  1  0
+  7  8  1  0
+  8  9  1  0
+  3 10  1  0
+M  END
+
+&gt; &lt;chembl_id&gt;
+CHEMBL3228122
+
+&gt; &lt;chembl_pref_name&gt;
+None
+
+</molfile><standard_inchi>InChI=1S/C6H8FNOS/c1-4-5(2-3-9)10-6(7)8-4/h9H,2-3H2,1H3</standard_inchi><standard_inchi_key>METLIDTYSKKAKS-UHFFFAOYSA-N</standard_inchi_key></molecule_structures><molecule_type>Small molecule</molecule_type><natural_product>-1</natural_product><oral/><parenteral/><polymer_flag/><pref_name/><prodrug>-1</prodrug><structure_type>MOL</structure_type><therapeutic_flag/><topical/><usan_stem/><usan_stem_definition/><usan_substem/><usan_year/><withdrawn_class/><withdrawn_country/><withdrawn_flag/><withdrawn_reason/><withdrawn_year/></molecule></molecules><page_meta><limit>20</limit><next/><offset/><previous/><total_count>1</total_count></page_meta></response>

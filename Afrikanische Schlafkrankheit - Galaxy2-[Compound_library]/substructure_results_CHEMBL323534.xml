@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response><molecules><molecule><atc_classifications/><availability_type>-1</availability_type><biotherapeutic/><black_box_warning/><chebi_par_id/><chirality>-1</chirality><cross_references/><dosed_ingredient/><first_approval/><first_in_class>-1</first_in_class><helm_notation/><indication_class/><inorganic_flag>-1</inorganic_flag><max_phase/><molecule_chembl_id>CHEMBL3235340</molecule_chembl_id><molecule_hierarchy><molecule_chembl_id>CHEMBL3235340</molecule_chembl_id><parent_chembl_id>CHEMBL3235340</parent_chembl_id></molecule_hierarchy><molecule_properties><alogp>3.29</alogp><aromatic_rings>2</aromatic_rings><cx_logd>2.88</cx_logd><cx_logp>2.93</cx_logp><cx_most_apka/><cx_most_bpka>6.51</cx_most_bpka><full_molformula>C24H30N4O2</full_molformula><full_mwt>406.53</full_mwt><hba>5</hba><hba_lipinski>6</hba_lipinski><hbd>2</hbd><hbd_lipinski>3</hbd_lipinski><heavy_atoms>30</heavy_atoms><molecular_species>NEUTRAL</molecular_species><mw_freebase>406.53</mw_freebase><mw_monoisotopic>406.2369</mw_monoisotopic><num_lipinski_ro5_violations/><num_ro5_violations/><psa>80.36</psa><qed_weighted>0.82</qed_weighted><ro3_pass>N</ro3_pass><rtb>4</rtb></molecule_properties><molecule_structures><canonical_smiles>CN1CCc2c3c(n(-c4ccc(C(N)=O)c(NC5CC5)c4)c2C1)CC(C)(C)CC3=O</canonical_smiles><molfile>
+     RDKit          2D
+
+ 30 34  0  0  0  0  0  0  0  0999 V2000
+   22.5388  -12.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8330  -13.1122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5433  -13.5170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1242  -10.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1230  -10.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8311  -11.3773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5407  -10.9679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5379  -10.1452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8293   -9.7400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8268   -8.9228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5333   -8.5121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1179   -8.5163    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8322  -12.1971    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4931  -12.6777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2399  -13.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7831  -14.0589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5824  -13.8921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2895  -12.5051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5288  -14.8356    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4252  -13.4585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1718  -12.6801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3754  -12.5112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8266  -13.1179    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0800  -13.8964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8822  -14.0682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0274  -12.9473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4164   -9.7404    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7087  -10.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8948  -10.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3035  -10.8573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9  4  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 13 21  1  0
+ 20 15  1  0
+ 14 13  1  0
+  6 13  1  0
+ 14 15  2  0
+ 14 18  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17  2  1  0
+  2 18  1  0
+ 16 19  2  0
+ 20 21  2  0
+ 20 25  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 24 25  1  0
+ 23 26  1  0
+  4 27  1  0
+ 27 28  1  0
+ 29 28  1  0
+ 30 29  1  0
+ 28 30  1  0
+M  END
+
+&gt; &lt;chembl_id&gt;
+CHEMBL3235340
+
+&gt; &lt;chembl_pref_name&gt;
+None
+
+</molfile><standard_inchi>InChI=1S/C24H30N4O2/c1-24(2)11-19-22(21(29)12-24)17-8-9-27(3)13-20(17)28(19)15-6-7-16(23(25)30)18(10-15)26-14-4-5-14/h6-7,10,14,26H,4-5,8-9,11-13H2,1-3H3,(H2,25,30)</standard_inchi><standard_inchi_key>BGFYCZKQHDTLHW-UHFFFAOYSA-N</standard_inchi_key></molecule_structures><molecule_type>Small molecule</molecule_type><natural_product>-1</natural_product><oral/><parenteral/><polymer_flag/><pref_name/><prodrug>-1</prodrug><structure_type>MOL</structure_type><therapeutic_flag/><topical/><usan_stem/><usan_stem_definition/><usan_substem/><usan_year/><withdrawn_class/><withdrawn_country/><withdrawn_flag/><withdrawn_reason/><withdrawn_year/></molecule></molecules><page_meta><limit>20</limit><next/><offset/><previous/><total_count>1</total_count></page_meta></response>

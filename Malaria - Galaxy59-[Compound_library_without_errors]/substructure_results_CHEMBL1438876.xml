@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response><molecules><molecule><atc_classifications/><availability_type>-1</availability_type><biotherapeutic/><black_box_warning/><chebi_par_id/><chirality>-1</chirality><cross_references><molecule><xref_id>4259964</xref_id><xref_name>SID: 4259964</xref_name><xref_src>PubChem</xref_src></molecule></cross_references><dosed_ingredient/><first_approval/><first_in_class>-1</first_in_class><helm_notation/><indication_class/><inorganic_flag>-1</inorganic_flag><max_phase/><molecule_chembl_id>CHEMBL1438876</molecule_chembl_id><molecule_hierarchy><molecule_chembl_id>CHEMBL1438876</molecule_chembl_id><parent_chembl_id>CHEMBL1438876</parent_chembl_id></molecule_hierarchy><molecule_properties><alogp>3.07</alogp><aromatic_rings>3</aromatic_rings><cx_logd>2.88</cx_logd><cx_logp>3.30</cx_logp><cx_most_apka>7.17</cx_most_apka><cx_most_bpka>3.20</cx_most_bpka><full_molformula>C14H14N4OS2</full_molformula><full_mwt>318.43</full_mwt><hba>7</hba><hba_lipinski>5</hba_lipinski><hbd>1</hbd><hbd_lipinski>1</hbd_lipinski><heavy_atoms>21</heavy_atoms><molecular_species>NEUTRAL</molecular_species><mw_freebase>318.43</mw_freebase><mw_monoisotopic>318.0609</mw_monoisotopic><num_lipinski_ro5_violations/><num_ro5_violations/><psa>63.83</psa><qed_weighted>0.73</qed_weighted><ro3_pass>N</ro3_pass><rtb>5</rtb></molecule_properties><molecule_structures><canonical_smiles>Cc1ncsc1CCSc1nnc(O)n1-c1ccccc1</canonical_smiles><molfile>
+     RDKit          2D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+    0.9289   -2.1639    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3662   -2.9064    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7241   -3.3451    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4911   -2.5444    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4021   -3.5364    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3516   -3.8720    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4462   -2.1218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3158   -2.7160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9036   -3.2589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8267   -1.7908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6472   -1.7045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3418   -1.1233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1113   -2.1218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7136   -2.4189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7787   -1.6369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3267   -1.8668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9827   -0.9508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6773   -0.3696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1912   -2.9064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4978   -0.2834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7787   -0.8119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 14  1  0
+  2 13  1  0
+  2 19  1  0
+  3  9  1  0
+  4  8  1  0
+  4  9  1  0
+  4 10  1  0
+  5  6  1  0
+  5  8  2  0
+  6  9  2  0
+  7 15  1  0
+  7 19  2  0
+ 10 11  2  0
+ 10 12  1  0
+ 11 17  1  0
+ 12 18  2  0
+ 13 15  2  0
+ 13 16  1  0
+ 14 16  1  0
+ 15 21  1  0
+ 17 20  2  0
+ 18 20  1  0
+M  END
+
+&gt; &lt;chembl_id&gt;
+CHEMBL1438876
+
+&gt; &lt;chembl_pref_name&gt;
+None
+
+</molfile><standard_inchi>InChI=1S/C14H14N4OS2/c1-10-12(21-9-15-10)7-8-20-14-17-16-13(19)18(14)11-5-3-2-4-6-11/h2-6,9H,7-8H2,1H3,(H,16,19)</standard_inchi><standard_inchi_key>CNGXNMWOBWONQC-UHFFFAOYSA-N</standard_inchi_key></molecule_structures><molecule_type>Small molecule</molecule_type><natural_product>-1</natural_product><oral/><parenteral/><polymer_flag/><pref_name/><prodrug>-1</prodrug><structure_type>MOL</structure_type><therapeutic_flag/><topical/><usan_stem/><usan_stem_definition/><usan_substem/><usan_year/><withdrawn_class/><withdrawn_country/><withdrawn_flag/><withdrawn_reason/><withdrawn_year/></molecule></molecules><page_meta><limit>20</limit><next/><offset/><previous/><total_count>1</total_count></page_meta></response>

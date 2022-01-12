@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response><molecules><molecule><atc_classifications/><availability_type/><biotherapeutic/><black_box_warning/><chebi_par_id/><chirality>2</chirality><cross_references/><dosed_ingredient/><first_approval/><first_in_class/><helm_notation/><indication_class/><inorganic_flag/><max_phase/><molecule_chembl_id>CHEMBL2104128</molecule_chembl_id><molecule_hierarchy><molecule_chembl_id>CHEMBL2104128</molecule_chembl_id><parent_chembl_id>CHEMBL2104128</parent_chembl_id></molecule_hierarchy><molecule_properties><alogp>2.62</alogp><aromatic_rings>1</aromatic_rings><cx_logd>2.22</cx_logd><cx_logp>2.22</cx_logp><cx_most_apka/><cx_most_bpka>3.25</cx_most_bpka><full_molformula>C7H10ClNS</full_molformula><full_mwt>175.68</full_mwt><hba>2</hba><hba_lipinski>1</hba_lipinski><hbd/><hbd_lipinski/><heavy_atoms>10</heavy_atoms><molecular_species>NEUTRAL</molecular_species><mw_freebase>175.68</mw_freebase><mw_monoisotopic>175.0222</mw_monoisotopic><num_lipinski_ro5_violations/><num_ro5_violations/><psa>12.89</psa><qed_weighted>0.64</qed_weighted><ro3_pass>Y</ro3_pass><rtb>3</rtb></molecule_properties><molecule_structures><canonical_smiles>Cc1ncsc1CCCCl</canonical_smiles><molfile>
+     RDKit          2D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+   -3.4500    0.1458    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0833    0.5958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2458   -0.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4500   -1.1042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1083   -1.7542    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1375    1.8833    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.2125   -0.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6208    1.9708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4042    0.6458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9417    0.6583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  2  0
+  4  1  2  0
+  5  4  1  0
+  6  9  1  0
+  7  3  1  0
+  8  2  1  0
+  9 10  1  0
+ 10  7  1  0
+  3  5  1  0
+M  END
+
+&gt; &lt;chembl_id&gt;
+CHEMBL2104128
+
+&gt; &lt;chembl_pref_name&gt;
+CLOPROTHIAZOLE
+
+</molfile><standard_inchi>InChI=1S/C7H10ClNS/c1-6-7(3-2-4-8)10-5-9-6/h5H,2-4H2,1H3</standard_inchi><standard_inchi_key>HMKQACOWZYBTIW-UHFFFAOYSA-N</standard_inchi_key></molecule_structures><molecule_type>Small molecule</molecule_type><natural_product/><oral/><parenteral/><polymer_flag/><pref_name>CLOPROTHIAZOLE</pref_name><prodrug/><structure_type>MOL</structure_type><therapeutic_flag/><topical/><usan_stem/><usan_stem_definition/><usan_substem/><usan_year/><withdrawn_class/><withdrawn_country/><withdrawn_flag/><withdrawn_reason/><withdrawn_year/></molecule></molecules><page_meta><limit>20</limit><next/><offset/><previous/><total_count>1</total_count></page_meta></response>

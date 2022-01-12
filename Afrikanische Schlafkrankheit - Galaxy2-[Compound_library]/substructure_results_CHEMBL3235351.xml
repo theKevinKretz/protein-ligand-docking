@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response><molecules><molecule><atc_classifications/><availability_type>-1</availability_type><biotherapeutic/><black_box_warning/><chebi_par_id/><chirality>-1</chirality><cross_references/><dosed_ingredient/><first_approval/><first_in_class>-1</first_in_class><helm_notation/><indication_class/><inorganic_flag>-1</inorganic_flag><max_phase/><molecule_chembl_id>CHEMBL3235351</molecule_chembl_id><molecule_hierarchy><molecule_chembl_id>CHEMBL3235351</molecule_chembl_id><parent_chembl_id>CHEMBL3235351</parent_chembl_id></molecule_hierarchy><molecule_properties><alogp>3.81</alogp><aromatic_rings>2</aromatic_rings><cx_logd>3.68</cx_logd><cx_logp>3.68</cx_logp><cx_most_apka/><cx_most_bpka>2.07</cx_most_bpka><full_molformula>C25H31N3O3</full_molformula><full_mwt>421.54</full_mwt><hba>5</hba><hba_lipinski>6</hba_lipinski><hbd>2</hbd><hbd_lipinski>3</hbd_lipinski><heavy_atoms>31</heavy_atoms><molecular_species>NEUTRAL</molecular_species><mw_freebase>421.54</mw_freebase><mw_monoisotopic>421.2365</mw_monoisotopic><num_lipinski_ro5_violations/><num_ro5_violations/><psa>86.35</psa><qed_weighted>0.79</qed_weighted><ro3_pass>N</ro3_pass><rtb>4</rtb></molecule_properties><molecule_structures><canonical_smiles>CC1(C)CC(=O)c2c3c(n(-c4ccc(C(N)=O)c(N[C@H]5CCOC5)c4)c2C1)CCCC3</canonical_smiles><molfile>
+     RDKit          2D
+
+ 31 35  0  0  0  0  0  0  0  0999 V2000
+   15.9806  -14.0408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7731  -13.8303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1946  -13.2493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7806  -13.8262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0717  -10.8628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0706  -11.6824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7786  -12.0913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4883  -11.6819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4854  -10.8592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7768  -10.4540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7797  -12.9112    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4407  -13.3917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1875  -14.1686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7307  -14.7730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5300  -14.6061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2371  -13.2192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3728  -14.1726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1194  -13.3941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3229  -13.2252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0276  -14.6104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8297  -14.7822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0837  -15.5589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7744   -9.6368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4809   -9.2261    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0655   -9.2303    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1916  -10.4480    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9009  -10.8539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9930  -11.6652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7930  -11.8321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1989  -11.1228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6498  -10.5177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10  5  1  0
+ 11 18  1  0
+ 17 13  1  0
+ 12 11  1  0
+  7 11  1  0
+ 12 13  2  0
+ 12 16  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15  4  1  0
+  4 16  1  0
+ 17 18  2  0
+ 17 21  1  0
+ 18 19  1  0
+ 19  2  1  0
+  2 20  1  0
+ 20 21  1  0
+ 21 22  2  0
+ 10 23  1  0
+ 23 24  2  0
+ 23 25  1  0
+  9 26  1  0
+ 27 26  1  6
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 27  1  0
+M  END
+
+&gt; &lt;chembl_id&gt;
+CHEMBL3235351
+
+&gt; &lt;chembl_pref_name&gt;
+None
+
+</molfile><standard_inchi>InChI=1S/C25H31N3O3/c1-25(2)12-21-23(22(29)13-25)18-5-3-4-6-20(18)28(21)16-7-8-17(24(26)30)19(11-16)27-15-9-10-31-14-15/h7-8,11,15,27H,3-6,9-10,12-14H2,1-2H3,(H2,26,30)/t15-/m0/s1</standard_inchi><standard_inchi_key>ZRFHTXGPVLSYHB-HNNXBMFYSA-N</standard_inchi_key></molecule_structures><molecule_type>Small molecule</molecule_type><natural_product>-1</natural_product><oral/><parenteral/><polymer_flag/><pref_name/><prodrug>-1</prodrug><structure_type>MOL</structure_type><therapeutic_flag/><topical/><usan_stem/><usan_stem_definition/><usan_substem/><usan_year/><withdrawn_class/><withdrawn_country/><withdrawn_flag/><withdrawn_reason/><withdrawn_year/></molecule></molecules><page_meta><limit>20</limit><next/><offset/><previous/><total_count>1</total_count></page_meta></response>
