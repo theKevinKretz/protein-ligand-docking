@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response><molecules><molecule><atc_classifications><level5>A01AB18</level5><level5>G01AF02</level5><level5>D01AC01</level5></atc_classifications><availability_type>2</availability_type><biotherapeutic/><black_box_warning/><chebi_par_id>3764</chebi_par_id><chirality>2</chirality><cross_references><molecule><xref_id>clotrimazole</xref_id><xref_name>clotrimazole</xref_name><xref_src>DailyMed</xref_src></molecule><molecule><xref_id>11110962</xref_id><xref_name>SID: 11110962</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>11110963</xref_id><xref_name>SID: 11110963</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>11532882</xref_id><xref_name>SID: 11532882</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>124879671</xref_id><xref_name>SID: 124879671</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>144203662</xref_id><xref_name>SID: 144203662</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>144210733</xref_id><xref_name>SID: 144210733</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>170464807</xref_id><xref_name>SID: 170464807</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>26747486</xref_id><xref_name>SID: 26747486</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>26747487</xref_id><xref_name>SID: 26747487</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>50106076</xref_id><xref_name>SID: 50106076</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>50106077</xref_id><xref_name>SID: 50106077</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>50106078</xref_id><xref_name>SID: 50106078</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>50106079</xref_id><xref_name>SID: 50106079</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>569393</xref_id><xref_name>SID: 569393</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>85230973</xref_id><xref_name>SID: 85230973</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>90340692</xref_id><xref_name>SID: 90340692</xref_name><xref_src>PubChem</xref_src></molecule><molecule><xref_id>Clotrimazole</xref_id><xref_name/><xref_src>Wikipedia</xref_src></molecule></cross_references><dosed_ingredient>True</dosed_ingredient><first_approval>1975</first_approval><first_in_class/><helm_notation/><indication_class>Antifungal</indication_class><inorganic_flag/><max_phase>4</max_phase><molecule_chembl_id>CHEMBL104</molecule_chembl_id><molecule_hierarchy><molecule_chembl_id>CHEMBL104</molecule_chembl_id><parent_chembl_id>CHEMBL104</parent_chembl_id></molecule_hierarchy><molecule_properties><alogp>5.38</alogp><aromatic_rings>4</aromatic_rings><cx_logd>5.82</cx_logd><cx_logp>5.84</cx_logp><cx_most_apka/><cx_most_bpka>6.26</cx_most_bpka><full_molformula>C22H17ClN2</full_molformula><full_mwt>344.85</full_mwt><hba>2</hba><hba_lipinski>2</hba_lipinski><hbd/><hbd_lipinski/><heavy_atoms>25</heavy_atoms><molecular_species>NEUTRAL</molecular_species><mw_freebase>344.85</mw_freebase><mw_monoisotopic>344.1080</mw_monoisotopic><num_lipinski_ro5_violations>1</num_lipinski_ro5_violations><num_ro5_violations>1</num_ro5_violations><psa>17.82</psa><qed_weighted>0.45</qed_weighted><ro3_pass>N</ro3_pass><rtb>4</rtb></molecule_properties><molecule_structures><canonical_smiles>Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1</canonical_smiles><molfile>
+     RDKit          2D
+
+ 25 28  0  0  0  0  0  0  0  0999 V2000
+    2.3383   -1.3500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2990   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2990    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2990    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2990   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2999   -3.7508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3004   -5.2508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5997   -6.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8985   -5.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8980   -3.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5987   -3.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2999   -2.2509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5987   -3.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8980   -2.2517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8985   -0.7517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5997   -0.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3004   -0.7509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2993   -3.7521    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4361   -5.2330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9031   -5.5458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6540   -4.2472    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6510   -3.1318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  2  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14  9  1  0
+  8 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 15  1  0
+  8 21  1  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 21  1  0
+M  END
+
+&gt; &lt;chembl_id&gt;
+CHEMBL104
+
+&gt; &lt;chembl_pref_name&gt;
+CLOTRIMAZOLE
+
+</molfile><standard_inchi>InChI=1S/C22H17ClN2/c23-21-14-8-7-13-20(21)22(25-16-15-24-17-25,18-9-3-1-4-10-18)19-11-5-2-6-12-19/h1-17H</standard_inchi><standard_inchi_key>VNFPBHJOKIVQEB-UHFFFAOYSA-N</standard_inchi_key></molecule_structures><molecule_type>Small molecule</molecule_type><natural_product/><oral>True</oral><parenteral/><polymer_flag/><pref_name>CLOTRIMAZOLE</pref_name><prodrug/><structure_type>MOL</structure_type><therapeutic_flag>True</therapeutic_flag><topical>True</topical><usan_stem/><usan_stem_definition/><usan_substem/><usan_year>1970</usan_year><withdrawn_class/><withdrawn_country/><withdrawn_flag/><withdrawn_reason/><withdrawn_year/></molecule></molecules><page_meta><limit>20</limit><next/><offset/><previous/><total_count>1</total_count></page_meta></response>

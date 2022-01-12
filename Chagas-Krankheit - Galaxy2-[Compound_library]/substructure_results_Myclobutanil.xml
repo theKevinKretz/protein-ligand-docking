@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response><error_message>could not create molecule from SMILES 'CCCCC(Cn1cncn1)(C'
+LINE 1: ...d_mols" U0 WHERE (m@&gt; mol_adjust_query_properties('CCCCC(Cn1...
+                                                             ^
+</error_message><traceback>Traceback (most recent call last):
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+
+psycopg2.errors.DataException: could not create molecule from SMILES 'CCCCC(Cn1cncn1)(C'
+LINE 1: ...d_mols" U0 WHERE (m@&gt; mol_adjust_query_properties('CCCCC(Cn1...
+                                                             ^
+
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/chembl_ws_py3/src/chembl_webservices/core/resource.py", line 441, in handle
+    count = sorted_objects.count() if not isinstance(sorted_objects, list) else len(sorted_objects)
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/models/query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/models/sql/query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/models/sql/query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1140, in execute_sql
+    cursor.execute(sql, params)
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/backends/utils.py", line 99, in execute
+    return super().execute(sql, params)
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/backends/utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+
+  File "/opt/conda/envs/chembl-webservices-py3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+
+django.db.utils.DataError: could not create molecule from SMILES 'CCCCC(Cn1cncn1)(C'
+LINE 1: ...d_mols" U0 WHERE (m@&gt; mol_adjust_query_properties('CCCCC(Cn1...
+                                                             ^
+
+</traceback></response>

@@ -1,0 +1,6 @@
+C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O	Fluconazole
+Clc1cc(Cl)ccc1C(Cn2ccnc2)OCc3ccc(Cl)cc3Cl	Miconazole
+O=C1N(/N=C\N1c2ccc(cc2)N7CCN(c6ccc(OC[C@@H]3O[C@](OC3)(c4ccc(Cl)cc4Cl)Cn5ncnc5)cc6)CC7)C(C)CC	Itraconazole
+Clc1ccccc1C(c2ccccc2)(c3ccccc3)n4ccnc4	Clotrimazole
+CCCCC(Cn1cncn1)(C#N)c1ccc(Cl)cc1	Myclobutanil
+C[C@H](CCC=C(C)C)[C@H]1CC[C@]2(C)C1CCC3=C2CC[C@H]4C(C)(C)[C@@H](O)CC[C@]34C	Lanosterol
