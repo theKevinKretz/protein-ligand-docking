@@ -1,0 +1,22 @@
+\babel@toc {german}{}\relax 
+\contentsline {section}{\numberline {1}Kurzfassung}{3}{}%
+\contentsline {section}{\numberline {2}Einleitung}{4}{}%
+\contentsline {section}{\numberline {3}Vorgehensweise, Materialien und Methode}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Vorbereitung}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Krankheiten wählen}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Proteine und natürliche Liganden finden}{6}{}%
+\contentsline {paragraph}{Malaria}{6}{}%
+\contentsline {subparagraph}{Protein}{6}{}%
+\contentsline {subparagraph}{Ligand}{6}{}%
+\contentsline {paragraph}{Afrikanische Schlafkrankheit}{6}{}%
+\contentsline {paragraph}{Chagas-Krankheit}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Docking mit Galaxy}{7}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Übersicht}{7}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Protein- und Ligandenstruktur eingeben}{8}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Dateien für das Docking vorbereiten}{10}{}%
+\contentsline {subsection}{\numberline {3.3}SMI...}{12}{}%
+\contentsline {section}{\numberline {4}Ergebnisse}{14}{}%
+\contentsline {section}{\numberline {5}Ergebnisdiskussion}{14}{}%
+\contentsline {section}{\numberline {6}Zusammenfassung}{14}{}%
+\contentsline {section}{\numberline {7}Quellen- und Literaturverzeichnis}{14}{}%
+\contentsline {section}{\numberline {8}Unterstützungsleistungen}{14}{}%

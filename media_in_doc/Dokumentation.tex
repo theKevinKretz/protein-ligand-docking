@@ -13,11 +13,12 @@
 \usepackage{graphicx}
 \usepackage{wrapfig}
 % \usepackage{scrartcl}
-% \usepackage{amsmath}
+\usepackage{amsmath}
 \usepackage{listings}
 \usepackage{xcolor}
 \usepackage[german]{babel}
 \usepackage[clean]{svg}
+\usepackage{csvsimple}
 
 % Code
 \definecolor{codegreen}{rgb}{0,0.6,0}
@@ -54,7 +55,7 @@
 \begin{document}
 
     \csvreader[tabular=|c|c|c|c|c|c|c|c|,
-        table head=\hline 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8\\\hline,
+        table head=\hline Index & MODEL & RMSD_LB & RMSD_UB & SCORE & SDFMoleculeName & kkSMILES & kkTORSDO\\\hline,
         late after line=\\\hline]%
     {pf_table_sorted_01.csv}{Index=\kkIndex,MODEL=\kkModel,RMSD_LB=\kkRMSDLB,RMSD_UB=\kkRMSDUB,SCORE=\kkScore,SDFMoleculeName=\kkSDFMoleculeName,SMILES=\kkSMILES,TORSDO=\kkTORSDO}%
     {\thecsvrow, \}%
@@ -161,14 +162,10 @@
     In dem Tool konnte man auswählen, wie hoch der „Tanimoto cutoff score“ sein soll. Dieser Score entscheidet, wie hoch die Ähnlichkeit zwischen einem Liganden aus der Datenbank und dem eingegeben Vergleichs-Liganden sein muss, um in die Compound library aufgenommen zu werden. Ein Bereich von 40 (niedrige Ähnlichkeit ist ausreichend) bis 100 steht zur Verfü-gung Außerdem haben wir ausgewählt, dass der „Filter for Lipinski‘s Rule of Five“ ange-wendet werden soll. Die Rule of Five ist eine Faustregel, die Moleküle auf ihre orale Biover-fügbarkeit überprüft, also auf die Frage, ob ein Molekül prinzipiell als oral-einzunehmendes Arzneimittel geeignet wäre.
     Evt. einzelne Kriterien und Entwickler nennen.
     Nach dem Ausführen dieses Befehls haben wir nun also eine Compound library im Format einer SMILES-Liste, die aus in diesem Fall 50 Molekülen besteht, die dem natürlichen Ligan-den des Plasmodium Falciparums ähnlich sind und außerdem als Arzneimittel theoretisch ge-eignet wären. Die Datei sieht folgendermaßen aus: In jeder Zeile ist ein Molekül aufgelistet, zunächst mit dem SMILES-String und dann mit dem Titel, also der ChEMBL-ID des jeweili-gen Moleküls.
-
-    %\begin{footnotesize}
         \begin{figure}
-            \centering
-            \def\svgwidth{\columnwidth}
-            \input{hspfigvisual.pdf_tex}\label{fig:figure}
+            %\includegraphics[width=\textwidth]{hspfigvisual}
+            \includegraphics[width=\textwidth]{P. Falciparum - ligands - visual}
         \end{figure}
-    %\end{footnotesize}
 
     %\includesvg[width=\columnwidth](P. Falciparum - ligands - visual.svg)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.12)  14 JAN 2022 14:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.12)  14 JAN 2022 17:30
 entering extended mode
 **./Dokumentation.tex
 (Dokumentation.tex
@@ -52,24 +52,83 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \WF@box=\box50
 \WF@everypar=\toks17
 Package: wrapfig 2003/01/31  v 3.6
-) (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count191
-\lst@gtempboxa=\box51
-\lst@token=\toks18
-\lst@length=\count192
-\lst@currlwidth=\dimen143
-\lst@column=\count193
-\lst@pos=\count194
-\lst@lostspace=\dimen144
-\lst@width=\dimen145
-\lst@newlines=\count195
-\lst@lineno=\count196
-\lst@maxwidth=\dimen146
+) (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen143
+))
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks19
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks20
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count269
+\lst@gtempboxa=\box53
+\lst@token=\toks23
+\lst@length=\count270
+\lst@currlwidth=\dimen152
+\lst@column=\count271
+\lst@pos=\count272
+\lst@lostspace=\dimen153
+\lst@width=\dimen154
+\lst@newlines=\count273
+\lst@lineno=\count274
+\lst@maxwidth=\dimen155
+
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count197
-\lst@skipnumbers=\count198
-\lst@framebox=\box52
+\c@lstnumber=\count275
+\lst@skipnumbers=\count276
+\lst@framebox=\box54
 )
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
@@ -96,14 +155,14 @@ Package: babel 2021/07/22 3.63 The Babel package
 
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
 File: babel.def 2021/07/22 3.63 Babel common definitions
-\babel@savecnt=\count199
-\U@D=\dimen147
+\babel@savecnt=\count277
+\U@D=\dimen156
 \l@unhyphenated=\language79
 
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count266
+\bbl@dirlevel=\count278
 
 *************************************
 * Local config file bblopts.cfg used
@@ -170,7 +229,7 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 )
-\c@svg@param@lastpage=\count267
+\c@svg@param@lastpage=\count279
 
 C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty:768: LaTeX E
 rror: Unknown option `clean' for package `svg'.
@@ -184,8 +243,8 @@ l.768 \FamilyProcessOptions{SVG}
 The option `clean' was not declared in package `svg', perhaps you
 misspelled its name. Try typing  <return>  to proceed.
 
-\svg@box=\box53
-\c@svg@param@currpage=\count268
+\svg@box=\box55
+\c@svg@param@currpage=\count280
 )
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent
 .sty
@@ -201,15 +260,15 @@ sty
 y
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
-\pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen148
-\pgfutil@tempdimb=\dimen149
+\pgfutil@everybye=\toks24
+\pgfutil@tempdima=\dimen157
+\pgfutil@tempdimb=\dimen158
 
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common-lists.tex))
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
-\pgfutil@abb=\box54
+\pgfutil@abb=\box56
 )
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
 code.tex
@@ -222,33 +281,33 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
-\pgfkeys@pathtoks=\toks20
-\pgfkeys@temptoks=\toks21
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
 
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 filtered.code.tex
-\pgfkeys@tmptoks=\toks22
+\pgfkeys@tmptoks=\toks27
 ))
-\pgf@x=\dimen150
-\pgf@y=\dimen151
-\pgf@xa=\dimen152
-\pgf@ya=\dimen153
-\pgf@xb=\dimen154
-\pgf@yb=\dimen155
-\pgf@xc=\dimen156
-\pgf@yc=\dimen157
-\pgf@xd=\dimen158
-\pgf@yd=\dimen159
+\pgf@x=\dimen159
+\pgf@y=\dimen160
+\pgf@xa=\dimen161
+\pgf@ya=\dimen162
+\pgf@xb=\dimen163
+\pgf@yb=\dimen164
+\pgf@xc=\dimen165
+\pgf@yc=\dimen166
+\pgf@xd=\dimen167
+\pgf@yd=\dimen168
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count269
-\c@pgf@countb=\count270
-\c@pgf@countc=\count271
-\c@pgf@countd=\count272
-\t@pgf@toka=\toks23
-\t@pgf@tokb=\toks24
-\t@pgf@tokc=\toks25
-\pgf@sys@id@count=\count273
+\c@pgf@counta=\count281
+\c@pgf@countb=\count282
+\c@pgf@countc=\count283
+\c@pgf@countd=\count284
+\t@pgf@toka=\toks28
+\t@pgf@tokb=\toks29
+\t@pgf@tokc=\toks30
+\pgf@sys@id@count=\count285
 
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
 fg
@@ -267,52 +326,84 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count274
-\pgfsyssoftpath@bigbuffer@items=\count275
+\pgfsyssoftpath@smallbuffer@items=\count286
+\pgfsyssoftpath@bigbuffer@items=\count287
 )
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 sprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/csvsimple\csvsimple.sty
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count276
-\l__pdf_internal_box=\box55
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box57
+))
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: csvsimple 2022/01/07 v2.2.1 LaTeX CSV file processing
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/csvsimple\csvsimple-leg
+acy.sty
+Package: csvsimple-legacy 2022/01/07 version 2.2.1 LaTeX2e CSV file processing
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count289
+)
+\csv@file=\read4
+\c@csvinputline=\count290
+\c@csvrow=\count291
+\c@csvcol=\count292
+\csv@out=\write4
 )
 (C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
 ar Bioinformatik\Bioinformatics Python\out\Dokumentation.aux)
 \openout1 = `Dokumentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
 
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count277
-\scratchdimen=\dimen160
-\scratchbox=\box56
-\nofMPsegments=\count278
-\nofMParguments=\count279
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count280
-\MPscratchDim=\dimen161
-\MPnumerator=\count281
-\makeMPintoPDFobject=\count282
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count293
+\scratchdimen=\dimen169
+\scratchbox=\box58
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen170
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks32
 )
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -324,361 +415,33 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count283
-
-Dokumentation.tex:56: Undefined control sequence.
-l.56     \csvreader
-                   [tabular=|c|c|c|c|c|c|c|c|,
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Dokumentation.tex:57: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.57         table head=\hline
-                               1 & 2 & 3 & 4 & 5 & 6 & 7 & 8\\\hline,
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-Dokumentation.tex:57: Misplaced alignment tab character &.
-l.57         table head=\hline 1 &
-                                   2 & 3 & 4 & 5 & 6 & 7 & 8\\\hline,
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Dokumentation.tex:57: Misplaced alignment tab character &.
-l.57         table head=\hline 1 & 2 &
-                                       3 & 4 & 5 & 6 & 7 & 8\\\hline,
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Dokumentation.tex:57: Misplaced alignment tab character &.
-l.57         table head=\hline 1 & 2 & 3 &
-                                           4 & 5 & 6 & 7 & 8\\\hline,
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Dokumentation.tex:57: Misplaced alignment tab character &.
-l.57         table head=\hline 1 & 2 & 3 & 4 &
-                                               5 & 6 & 7 & 8\\\hline,
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Dokumentation.tex:57: Misplaced alignment tab character &.
-l.57         table head=\hline 1 & 2 & 3 & 4 & 5 &
-                                                   6 & 7 & 8\\\hline,
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Dokumentation.tex:57: Misplaced alignment tab character &.
-l.57 ... table head=\hline 1 & 2 & 3 & 4 & 5 & 6 &
-                                                   7 & 8\\\hline,
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Dokumentation.tex:57: Misplaced alignment tab character &.
-l.57 ...le head=\hline 1 & 2 & 3 & 4 & 5 & 6 & 7 &
-                                                   8\\\hline,
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Dokumentation.tex:57: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.57 ...line 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8\\\hline
-                                                  ,
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
-
- []
-
-Dokumentation.tex:58: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.58         late after line=\\\hline
-                                     ]%
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-
- []
-
-Dokumentation.tex:59: Missing $ inserted.
+\c@lstlisting=\count299
+)
+Runaway argument?
+{\thecsvrow , \}\par \par \maketitle \par \includegraphics [width=\linewidth \E
+TC.
+! File ended while scanning use of \csv@reader.
 <inserted text> 
-                $
-l.59     {pf_
-             table_sorted_01.csv}{Index=\kkIndex,MODEL=\kkModel,RMSD_LB=\kkR...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+                \par 
+<*> ./Dokumentation.tex
+                       
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 59.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 59.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 59.
-Dokumentation.tex:59: Extra }, or forgotten $.
-l.59     {pf_table_sorted_01.csv}
-                                 {Index=\kkIndex,MODEL=\kkModel,RMSD_LB=\kkR...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+! Emergency stop.
+<*> ./Dokumentation.tex
+                       
+*** (job aborted, no legal \end found)
 
-Dokumentation.tex:59: Undefined control sequence.
-l.59     {pf_table_sorted_01.csv}{Index=\kkIndex
-                                                ,MODEL=\kkModel,RMSD_LB=\kkR...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Dokumentation.tex:59: Undefined control sequence.
-l.59 ...rted_01.csv}{Index=\kkIndex,MODEL=\kkModel
-                                                  ,RMSD_LB=\kkRMSDLB,RMSD_UB...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Dokumentation.tex:59: Undefined control sequence.
-l.59 ...=\kkIndex,MODEL=\kkModel,RMSD_LB=\kkRMSDLB
-                                                  ,RMSD_UB=\kkRMSDUB,SCORE=\...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Dokumentation.tex:59: Undefined control sequence.
-l.59 ...kModel,RMSD_LB=\kkRMSDLB,RMSD_UB=\kkRMSDUB
-                                                  ,SCORE=\kkScore,SDFMolecul...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Dokumentation.tex:59: Undefined control sequence.
-l.59 ...\kkRMSDLB,RMSD_UB=\kkRMSDUB,SCORE=\kkScore
-                                                  ,SDFMoleculeName=\kkSDFMol...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Dokumentation.tex:59: Undefined control sequence.
-l.59 ...kkScore,SDFMoleculeName=\kkSDFMoleculeName
-                                                  ,SMILES=\kkSMILES,TORSDO=\...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Dokumentation.tex:59: Undefined control sequence.
-l.59 ...leName=\kkSDFMoleculeName,SMILES=\kkSMILES
-                                                  ,TORSDO=\kkTORSDO}%
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Dokumentation.tex:59: Undefined control sequence.
-l.59 ...culeName,SMILES=\kkSMILES,TORSDO=\kkTORSDO
-                                                  }%
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Dokumentation.tex:60: Undefined control sequence.
-l.60     {\thecsvrow
-                    , \}%
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Dokumentation.tex:62: Missing $ inserted.
-<inserted text> 
-                $
-l.62 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Dokumentation.tex:62: Missing } inserted.
-<inserted text> 
-                }
-l.62 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (308.69957pt too wide) in paragraph at lines 58--62
-[]\OT1/cmr/m/n/10.95 ]pf$[]\OML/cmm/m/it/10.95 able[]orted[]\OT1/cmr/m/n/10.95 
-1\OML/cmm/m/it/10.95 :csv[][]$ 
- []
-
-[1
-
-{C:/Users/kevin/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 65.
-<protein-ligand.png, id=13, 948.54375pt x 801.99625pt>
-File: protein-ligand.png Graphic file (type png)
-<use protein-ligand.png>
-Package pdftex.def Info: protein-ligand.png  used on input line 67.
-(pdftex.def)             Requested size: 360.0pt x 304.38237pt.
-
-Overfull \hbox (17.0pt too wide) in paragraph at lines 67--68
-[][] 
- []
-
-[2 <./protein-ligand.png (PNG copy)>]
-(C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
-ar Bioinformatik\Bioinformatics Python\out\Dokumentation.toc)
-\tf@toc=\write4
-\openout4 = `Dokumentation.toc'.
-
-<Galaxy-logo.png, id=19, 401.5pt x 127.47626pt>
-File: Galaxy-logo.png Graphic file (type png)
-<use Galaxy-logo.png>
-Package pdftex.def Info: Galaxy-logo.png  used on input line 91.
-(pdftex.def)             Requested size: 108.0011pt x 34.29066pt.
- [3 <./Galaxy-logo.png>]
-<Anophelesmucke.png, id=26, 326.21875pt x 215.80624pt>
-File: Anophelesmucke.png Graphic file (type png)
-<use Anophelesmucke.png>
-Package pdftex.def Info: Anophelesmucke.png  used on input line 100.
-(pdftex.def)             Requested size: 108.0011pt x 71.44678pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
-[]\OT1/cmr/m/n/10.95 Abbildung 2: Die
- []
-
-
-Underfull \hbox (badness 4505) in paragraph at lines 101--101
-\OT1/cmr/m/n/10.95 Blut-sau-gen CD-C/Ja-
- []
-
-
-Underfull \hbox (badness 2707) in paragraph at lines 103--104
-[][]\OT1/cmr/m/n/10.95 Malaria ist ei-ne vor al-lem in den tro-pi-
- []
-
-
-Underfull \hbox (badness 1132) in paragraph at lines 103--104
-\OT1/cmr/m/n/10.95 schen Re-gio-nen Afri-kas an-zu-tref-fen, aber auch
- []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 103--104
-\OT1/cmr/m/n/10.95 in S[]udostasien und in den n[]ordlichen Tei-len
- []
-
-
-Underfull \hbox (badness 3098) in paragraph at lines 103--104
-\OT1/cmr/m/n/10.95 die h[]aufigste Tro-pen-krank-heit. Der wich-tig-ste
- []
-
-<Trypanosoma.png, id=27, 326.21875pt x 230.8625pt>
-File: Trypanosoma.png Graphic file (type png)
-<use Trypanosoma.png>
-Package pdftex.def Info: Trypanosoma.png  used on input line 106.
-(pdftex.def)             Requested size: 108.0011pt x 76.43144pt.
-
-Underfull \hbox (badness 1888) in paragraph at lines 107--107
-[]\OT1/cmr/m/n/10.95 Abbildung 3: Trypa-
- []
-
-
-Underfull \hbox (badness 3713) in paragraph at lines 107--107
-\OT1/cmr/m/n/10.95 no-so-ma, die Er-re-ger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
-\OT1/cmr/m/n/10.95 der Schlaf-krank-heit
- []
-
-
-Underfull \hbox (badness 1466) in paragraph at lines 109--110
-[][]\OT1/cmr/m/n/10.95 Ebenfalls ei-ne durch ein In-sekt ver-brei-te-te
- []
-
-
-Underfull \hbox (badness 3769) in paragraph at lines 109--110
-\OT1/cmr/m/n/10.95 Glie-der-schmer-zen, Lymph-kno-ten-schwel-lung und
- []
-
-[4 <./Anophelesmucke.png> <./Trypanosoma.png>]
-<Datacenter.png, id=33, 231.86626pt x 349.305pt>
-File: Datacenter.png Graphic file (type png)
-<use Datacenter.png>
-Package pdftex.def Info: Datacenter.png  used on input line 116.
-(pdftex.def)             Requested size: 108.0011pt x 162.7023pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]\OT1/cmr/m/n/10.95 Abbildung 4: Da-
- []
-
-[5 <./Datacenter.png>] [6] (hspfigvisual.pdf_tex
-<hspfigvisual.pdf, id=44, page=1, 75.0002pt x 64.99985pt>
-File: hspfigvisual.pdf Graphic file (type pdf)
-<use hspfigvisual.pdf, page 1>
-Package pdftex.def Info: hspfigvisual.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 360.0pt x 311.99767pt.
-
-!pdfTeX error: pdflatex (file C:/Users/kevin/OneDrive - birklehof.de/Uni Freibu
-rg/2021-2022 - Freiburg-Seminar Bioinformatik/Bioinformatics Python/out/hspfigv
-isual.pdf): PDF inclusion: required page does not exist <1>
- ==> Fatal error occurred, no output PDF file produced!
+ 
+Here is how much of TeX's memory you used:
+ 7917 strings out of 478927
+ 140040 string characters out of 2852535
+ 479438 words of memory out of 3000000
+ 25644 multiletter control sequences out of 15000+600000
+ 403730 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,1n,94p,2229b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
