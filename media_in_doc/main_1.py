@@ -1,4 +1,3 @@
-# Jugend forscht 2021 - Kevin Kretz, German Esaulkov, Leander Schäfer
 import os
 import xml.etree.ElementTree as ET
 

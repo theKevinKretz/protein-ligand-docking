@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.12)  14 JAN 2022 18:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.12)  14 JAN 2022 19:25
 entering extended mode
 **./Dokumentation.tex
 (Dokumentation.tex
@@ -249,39 +249,63 @@ Package shellesc Info: Restricted shell escape enabled on input line 77.
 \c@csvcol=\count283
 \csv@out=\write3
 )
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count284
+\Gm@cntv=\count285
+\c@Gm@tempcnt=\count286
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks28
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
 (C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
 ar Bioinformatik\Bioinformatics Python\out\Dokumentation.aux)
 \openout1 = `Dokumentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
 
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count284
-\scratchdimen=\dimen159
+\scratchcounter=\count287
+\scratchdimen=\dimen167
 \scratchbox=\box57
-\nofMPsegments=\count285
-\nofMParguments=\count286
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count287
-\MPscratchDim=\dimen160
-\MPnumerator=\count288
-\makeMPintoPDFobject=\count289
-\everyMPtoPDFconversion=\toks29
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen168
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks30
 )
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -293,14 +317,49 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count290
+\c@lstlisting=\count293
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 <protein-ligand.png, id=1, 948.54375pt x 801.99625pt>
 File: protein-ligand.png Graphic file (type png)
 <use protein-ligand.png>
-Package pdftex.def Info: protein-ligand.png  used on input line 69.
-(pdftex.def)             Requested size: 360.0pt x 304.38237pt.
+Package pdftex.def Info: protein-ligand.png  used on input line 70.
+(pdftex.def)             Requested size: 452.9679pt x 382.98358pt.
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 69--70
+Overfull \hbox (17.0pt too wide) in paragraph at lines 70--71
 [][] 
  []
 
@@ -313,261 +372,109 @@ ar Bioinformatik\Bioinformatics Python\out\Dokumentation.toc)
 \tf@toc=\write4
 \openout4 = `Dokumentation.toc'.
 
+
+Overfull \hbox (3.99866pt too wide) in paragraph at lines 85--86
+\OT1/cmr/m/n/10.95 ver[]offentlichten Da-ten-bank von drei-di-men-sio-na-len Pr
+o-te-in-mo-del-len, so-wie dem UseGalaxy-Server
+ []
+
 <Galaxy-logo.png, id=9, 401.5pt x 127.47626pt>
 File: Galaxy-logo.png Graphic file (type png)
 <use Galaxy-logo.png>
-Package pdftex.def Info: Galaxy-logo.png  used on input line 93.
-(pdftex.def)             Requested size: 108.0011pt x 34.29066pt.
- [2]
-<Anophelesmucke.png, id=16, 326.21875pt x 215.80624pt>
+Package pdftex.def Info: Galaxy-logo.png  used on input line 96.
+(pdftex.def)             Requested size: 135.89174pt x 43.14684pt.
+[2 <./Galaxy-logo.png>]
+<Anophelesmucke.png, id=17, 326.21875pt x 215.80624pt>
 File: Anophelesmucke.png Graphic file (type png)
 <use Anophelesmucke.png>
-Package pdftex.def Info: Anophelesmucke.png  used on input line 102.
-(pdftex.def)             Requested size: 108.0011pt x 71.44678pt.
+Package pdftex.def Info: Anophelesmucke.png  used on input line 119.
+(pdftex.def)             Requested size: 135.89174pt x 89.90038pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
-[]\OT1/cmr/m/n/10.95 Abbildung 2: Die
+Underfull \hbox (badness 1694) in paragraph at lines 120--120
+\OT1/cmr/m/n/10.95 lesm[]ucke beim Blut-sau-gen
  []
 
 
-Underfull \hbox (badness 4505) in paragraph at lines 103--103
-\OT1/cmr/m/n/10.95 Blut-sau-gen CD-C/Ja-
- []
+Package wrapfig Warning: Collision between wrapping environments on input line 
+130.
 
-
-Underfull \hbox (badness 2707) in paragraph at lines 106--107
-[][]\OT1/cmr/m/n/10.95 Malaria ist ei-ne vor al-lem in den tro-pi-
- []
-
-
-Underfull \hbox (badness 1132) in paragraph at lines 106--107
-\OT1/cmr/m/n/10.95 schen Re-gio-nen Afri-kas an-zu-tref-fen, aber auch
- []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 106--107
-\OT1/cmr/m/n/10.95 in S[]udostasien und in den n[]ordlichen Tei-len
- []
-
-
-Underfull \hbox (badness 3078) in paragraph at lines 106--107
-\OT1/cmr/m/n/10.95 die h[]aufigste Tro-pen-krank-heit. Der wich-tig-ste
- []
-
-[3 <./Galaxy-logo.png> <./Anophelesmucke.png>]
-<Trypanosoma.png, id=22, 326.21875pt x 230.8625pt>
+<Trypanosoma.png, id=18, 326.21875pt x 230.8625pt>
 File: Trypanosoma.png Graphic file (type png)
 <use Trypanosoma.png>
-Package pdftex.def Info: Trypanosoma.png  used on input line 109.
-(pdftex.def)             Requested size: 108.0011pt x 76.43144pt.
+Package pdftex.def Info: Trypanosoma.png  used on input line 131.
+(pdftex.def)             Requested size: 135.89174pt x 96.1725pt.
 
-Underfull \hbox (badness 1881) in paragraph at lines 110--110
-[]\OT1/cmr/m/n/10.95 Abbildung 3: Trypa-
+Underfull \hbox (badness 1584) in paragraph at lines 132--132
+\OT1/cmr/m/n/10.95 heit (CD-C/Dr. My-ron G.
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 110--110
-\OT1/cmr/m/n/10.95 no-so-ma, die Er-re-ger
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 13
+5.
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 148--149
+[]\OT1/cmr/m/n/10.95 Sowohl die Chagas-Krankheit als auch die Afri-ka-ni-sche
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-\OT1/cmr/m/n/10.95 der Schlaf-krank-heit
- []
+Package wrapfig Warning: Collision between wrapping environments on input line 
+150.
 
-
-Underfull \hbox (badness 1466) in paragraph at lines 113--114
-[][]\OT1/cmr/m/n/10.95 Ebenfalls ei-ne durch ein In-sekt ver-brei-te-te
- []
-
-
-Underfull \hbox (badness 3758) in paragraph at lines 113--114
-\OT1/cmr/m/n/10.95 Glie-der-schmer-zen, Lymph-kno-ten-schwel-lung und
- []
-
-<Datacenter.png, id=23, 231.86626pt x 349.305pt>
+<Datacenter.png, id=19, 231.86626pt x 349.305pt>
 File: Datacenter.png Graphic file (type png)
 <use Datacenter.png>
-Package pdftex.def Info: Datacenter.png  used on input line 120.
-(pdftex.def)             Requested size: 108.0011pt x 162.7023pt.
+Package pdftex.def Info: Datacenter.png  used on input line 151.
+(pdftex.def)             Requested size: 135.89174pt x 204.72368pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-[]\OT1/cmr/m/n/10.95 Abbildung 4: Da-
+Underfull \hbox (badness 3449) in paragraph at lines 152--152
+[]\OT1/cmr/m/n/10.95 Abbildung 4: Da-tencen-ter
  []
 
-[4 <./Trypanosoma.png> <./Datacenter.png>] [5]
-Overfull \hbox (25.58968pt too wide) in paragraph at lines 170--171
-[]\OT1/cmr/m/n/10.95 Folgendes sind die Struk-tur-for-meln der Com-pound li-bra
--ry und des Nat[]urlichen
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\OT1/cmr/m/n/10.95 des EMBL-EBI (EMBL-
  []
 
-<P. Falciparum - ligands - visual.png, id=33, 1244.4894pt x 1067.187pt>
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 15
+5.
+
+[3 <./Anophelesmucke.png> <./Trypanosoma.png>]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 16
+8.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 17
+0.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 17
+4.
+
+[4 <./Datacenter.png>]
+<P. Falciparum - ligands - visual.png, id=30, 1244.4894pt x 1067.187pt>
 File: P. Falciparum - ligands - visual.png Graphic file (type png)
 <use P. Falciparum - ligands - visual.png>
 Package pdftex.def Info: P. Falciparum - ligands - visual.png  used on input li
-ne 174.
-(pdftex.def)             Requested size: 360.0pt x 308.71095pt.
+ne 223.
+(pdftex.def)             Requested size: 452.9679pt x 388.43713pt.
 
-Dokumentation.tex:181: Package inputenc Error: Unicode character α (U+03B1)
+
+Dokumentation.tex:232: Package inputenc Error: Unicode character α (U+03B1)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.181 ...pen-Source-Programm, das mit Hilfe der α
-                                                  -Sphären-Theorie arbeitet...
-
+l.232 ...pen-Source-Programm, das mit Hilfe der α
+                                                  -Sphären-Theorie arbeitet.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[6] [7 <./P. Falciparum - ligands - visual.png>] [8]
-Overfull \hbox (1.52988pt too wide) in paragraph at lines 223--224
- \OT1/cmr/bx/n/10.95 Er-geb-nis-se des Dockings auf-be-rei-ten[] \OT1/cmr/m/n/1
-0.95 Um die Er-geb-nis-se des Dockings,
- []
-
-[9]
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(main_1.py
-
-main_1.py:1: Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 ...in Kretz, German Esaulkov, Leander Schäfer
-                                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:1: Package inputenc Error: Invalid UTF-8 byte "A4.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 ...in Kretz, German Esaulkov, Leander Schäfer
-                                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:11: Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...in os.listdir(input_directory):    # Für 
-                                                  jede SMI-Datei im Inputver...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:11: Package inputenc Error: Invalid UTF-8 byte "BC.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...in os.listdir(input_directory):    # Für 
-                                                  jede SMI-Datei im Inputver...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-[10]
-
-main_1.py:18: Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ... # Die Funktion run_for_disease wird für 
-                                                  die Krankheit ausgeführt.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:18: Package inputenc Error: Invalid UTF-8 byte "BC.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ... # Die Funktion run_for_disease wird für 
-                                                  die Krankheit ausgeführt.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:18: Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ...sease wird für die Krankheit ausgeführt.
-                                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:18: Package inputenc Error: Invalid UTF-8 byte "BC.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ...sease wird für die Krankheit ausgeführt.
-                                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-[11]) [12]
-Overfull \hbox (5.76208pt too wide) in paragraph at lines 268--269
-\OT1/cmr/m/n/10.95 m[]ogliche Kan-di-da-ten f[]ur Me-di-ka-men-te ge-gen Ma-la-
-ria, die Afri-ka-ni-sche Schlaf-
- []
-
-
-Overfull \hbox (21.41998pt too wide) in paragraph at lines 280--284
-\OT1/cmr/m/n/10.95 Herr Dr. Wolf-gang Mai-er, Bio-in-for-ma-ti-ker, Uni Frei-bu
-rg Ge-ne-rel-le Un-terst[]utzung
- []
-
-[13] [14]
+[5 <./P. Falciparum - ligands - visual.png>] [6] [7] [8]
 (C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
 ar Bioinformatik\Bioinformatics Python\out\Dokumentation.aux)
 
@@ -575,27 +482,25 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 7000 strings out of 478927
- 115510 string characters out of 2852535
- 877809 words of memory out of 3000000
- 24760 multiletter control sequences out of 15000+600000
- 410474 words of font info for 52 fonts, out of 8000000 for 9000
+ 7055 strings out of 478927
+ 118973 string characters out of 2852535
+ 453950 words of memory out of 3000000
+ 24813 multiletter control sequences out of 15000+600000
+ 409840 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,7n,81p,2261b,1895s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,7n,81p,403b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\kevin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kevin/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/kevin/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/kevin/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
 Output written on "C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-202
 2 - Freiburg-Seminar Bioinformatik\Bioinformatics Python\out\Dokumentation.pdf"
- (14 pages, 1324939 bytes).
+ (8 pages, 1287200 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
