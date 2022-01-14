@@ -1,10 +1,13 @@
 import sys
 import argparse
 
+
 class Virus:
     pass
 
+
 file = open(sys.argv[1])
+
 
 def getGenome(name, file):
     name.header = file.readline()

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.12)  12 JAN 2022 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.12)  14 JAN 2022 14:06
 entering extended mode
 **./Dokumentation.tex
 (Dokumentation.tex
@@ -121,373 +121,564 @@ f
 Language: germanb 2021/02/27 v2.13 German support for babel (pre-1996 orthograp
 hy)
 Package babel Info: Making " an active character on input line 139.
+))) (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok-3.34.sty
+Package: scrlfile-hook-3.34 2021/11/13 v3.35 KOMA-Script package (using LaTeX h
+ooks)
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
 )))
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
-File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count267
-\l__pdf_internal_box=\box53
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
 )
-(C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
-ar Bioinformatik\Bioinformatics Python\out\Dokumentation.aux)
-\openout1 = `Dokumentation.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count268
-\scratchdimen=\dimen148
-\scratchbox=\box54
-\nofMPsegments=\count269
-\nofMParguments=\count270
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count271
-\MPscratchDim=\dimen149
-\MPnumerator=\count272
-\makeMPintoPDFobject=\count273
-\everyMPtoPDFconversion=\toks20
-)
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
-ty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
 .sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
- (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+) (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@svg@param@lastpage=\count267
+
+C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty:768: LaTeX E
+rror: Unknown option `clean' for package `svg'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.768 \FamilyProcessOptions{SVG}
+                                
+The option `clean' was not declared in package `svg', perhaps you
+misspelled its name. Try typing  <return>  to proceed.
+
+\svg@box=\box53
+\c@svg@param@currpage=\count268
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent
+.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+))
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box54
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen150
+\pgf@y=\dimen151
+\pgf@xa=\dimen152
+\pgf@ya=\dimen153
+\pgf@xb=\dimen154
+\pgf@yb=\dimen155
+\pgf@xc=\dimen156
+\pgf@yc=\dimen157
+\pgf@xd=\dimen158
+\pgf@yd=\dimen159
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count269
+\c@pgf@countb=\count270
+\c@pgf@countc=\count271
+\c@pgf@countd=\count272
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count273
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count274
+\pgfsyssoftpath@bigbuffer@items=\count275
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box55
+)
+(C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
+ar Bioinformatik\Bioinformatics Python\out\Dokumentation.aux)
+\openout1 = `Dokumentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count277
+\scratchdimen=\dimen160
+\scratchbox=\box56
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen161
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count274
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 54.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 54.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 54.
-<protein-ligand.png, id=1, 948.54375pt x 801.99625pt>
-File: protein-ligand.png Graphic file (type png)
-<use protein-ligand.png>
-Package pdftex.def Info: protein-ligand.png  used on input line 56.
-(pdftex.def)             Requested size: 360.0pt x 304.38237pt.
+\c@lstlisting=\count283
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 56--57
-[][] 
+Dokumentation.tex:56: Undefined control sequence.
+l.56     \csvreader
+                   [tabular=|c|c|c|c|c|c|c|c|,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Dokumentation.tex:57: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.57         table head=\hline
+                               1 & 2 & 3 & 4 & 5 & 6 & 7 & 8\\\hline,
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+Dokumentation.tex:57: Misplaced alignment tab character &.
+l.57         table head=\hline 1 &
+                                   2 & 3 & 4 & 5 & 6 & 7 & 8\\\hline,
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Dokumentation.tex:57: Misplaced alignment tab character &.
+l.57         table head=\hline 1 & 2 &
+                                       3 & 4 & 5 & 6 & 7 & 8\\\hline,
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Dokumentation.tex:57: Misplaced alignment tab character &.
+l.57         table head=\hline 1 & 2 & 3 &
+                                           4 & 5 & 6 & 7 & 8\\\hline,
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Dokumentation.tex:57: Misplaced alignment tab character &.
+l.57         table head=\hline 1 & 2 & 3 & 4 &
+                                               5 & 6 & 7 & 8\\\hline,
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Dokumentation.tex:57: Misplaced alignment tab character &.
+l.57         table head=\hline 1 & 2 & 3 & 4 & 5 &
+                                                   6 & 7 & 8\\\hline,
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Dokumentation.tex:57: Misplaced alignment tab character &.
+l.57 ... table head=\hline 1 & 2 & 3 & 4 & 5 & 6 &
+                                                   7 & 8\\\hline,
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Dokumentation.tex:57: Misplaced alignment tab character &.
+l.57 ...le head=\hline 1 & 2 & 3 & 4 & 5 & 6 & 7 &
+                                                   8\\\hline,
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Dokumentation.tex:57: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.57 ...line 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8\\\hline
+                                                  ,
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+
+ []
+
+Dokumentation.tex:58: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.58         late after line=\\\hline
+                                     ]%
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+Dokumentation.tex:59: Missing $ inserted.
+<inserted text> 
+                $
+l.59     {pf_
+             table_sorted_01.csv}{Index=\kkIndex,MODEL=\kkModel,RMSD_LB=\kkR...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 59.
+Dokumentation.tex:59: Extra }, or forgotten $.
+l.59     {pf_table_sorted_01.csv}
+                                 {Index=\kkIndex,MODEL=\kkModel,RMSD_LB=\kkR...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+Dokumentation.tex:59: Undefined control sequence.
+l.59     {pf_table_sorted_01.csv}{Index=\kkIndex
+                                                ,MODEL=\kkModel,RMSD_LB=\kkR...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Dokumentation.tex:59: Undefined control sequence.
+l.59 ...rted_01.csv}{Index=\kkIndex,MODEL=\kkModel
+                                                  ,RMSD_LB=\kkRMSDLB,RMSD_UB...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Dokumentation.tex:59: Undefined control sequence.
+l.59 ...=\kkIndex,MODEL=\kkModel,RMSD_LB=\kkRMSDLB
+                                                  ,RMSD_UB=\kkRMSDUB,SCORE=\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Dokumentation.tex:59: Undefined control sequence.
+l.59 ...kModel,RMSD_LB=\kkRMSDLB,RMSD_UB=\kkRMSDUB
+                                                  ,SCORE=\kkScore,SDFMolecul...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Dokumentation.tex:59: Undefined control sequence.
+l.59 ...\kkRMSDLB,RMSD_UB=\kkRMSDUB,SCORE=\kkScore
+                                                  ,SDFMoleculeName=\kkSDFMol...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Dokumentation.tex:59: Undefined control sequence.
+l.59 ...kkScore,SDFMoleculeName=\kkSDFMoleculeName
+                                                  ,SMILES=\kkSMILES,TORSDO=\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Dokumentation.tex:59: Undefined control sequence.
+l.59 ...leName=\kkSDFMoleculeName,SMILES=\kkSMILES
+                                                  ,TORSDO=\kkTORSDO}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Dokumentation.tex:59: Undefined control sequence.
+l.59 ...culeName,SMILES=\kkSMILES,TORSDO=\kkTORSDO
+                                                  }%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Dokumentation.tex:60: Undefined control sequence.
+l.60     {\thecsvrow
+                    , \}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Dokumentation.tex:62: Missing $ inserted.
+<inserted text> 
+                $
+l.62 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Dokumentation.tex:62: Missing } inserted.
+<inserted text> 
+                }
+l.62 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (308.69957pt too wide) in paragraph at lines 58--62
+[]\OT1/cmr/m/n/10.95 ]pf$[]\OML/cmm/m/it/10.95 able[]orted[]\OT1/cmr/m/n/10.95 
+1\OML/cmm/m/it/10.95 :csv[][]$ 
  []
 
 [1
 
-{C:/Users/kevin/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./protein-ligan
-d.png (PNG copy)>]
-(C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
-ar Bioinformatik\Bioinformatics Python\out\Dokumentation.toc
+{C:/Users/kevin/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 5.
-)
-\tf@toc=\write3
-\openout3 = `Dokumentation.toc'.
+(Font)              <12> on input line 65.
+<protein-ligand.png, id=13, 948.54375pt x 801.99625pt>
+File: protein-ligand.png Graphic file (type png)
+<use protein-ligand.png>
+Package pdftex.def Info: protein-ligand.png  used on input line 67.
+(pdftex.def)             Requested size: 360.0pt x 304.38237pt.
 
-<Galaxy-logo.png, id=9, 401.5pt x 127.47626pt>
+Overfull \hbox (17.0pt too wide) in paragraph at lines 67--68
+[][] 
+ []
+
+[2 <./protein-ligand.png (PNG copy)>]
+(C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
+ar Bioinformatik\Bioinformatics Python\out\Dokumentation.toc)
+\tf@toc=\write4
+\openout4 = `Dokumentation.toc'.
+
+<Galaxy-logo.png, id=19, 401.5pt x 127.47626pt>
 File: Galaxy-logo.png Graphic file (type png)
 <use Galaxy-logo.png>
-Package pdftex.def Info: Galaxy-logo.png  used on input line 80.
+Package pdftex.def Info: Galaxy-logo.png  used on input line 91.
 (pdftex.def)             Requested size: 108.0011pt x 34.29066pt.
- [2 <./Galaxy-logo.png>]
-<Anophelesmucke.png, id=17, 326.21875pt x 215.80624pt>
+ [3 <./Galaxy-logo.png>]
+<Anophelesmucke.png, id=26, 326.21875pt x 215.80624pt>
 File: Anophelesmucke.png Graphic file (type png)
 <use Anophelesmucke.png>
-Package pdftex.def Info: Anophelesmucke.png  used on input line 89.
+Package pdftex.def Info: Anophelesmucke.png  used on input line 100.
 (pdftex.def)             Requested size: 108.0011pt x 71.44678pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
 []\OT1/cmr/m/n/10.95 Abbildung 2: Die
  []
 
 
-Underfull \hbox (badness 4505) in paragraph at lines 90--90
+Underfull \hbox (badness 4505) in paragraph at lines 101--101
 \OT1/cmr/m/n/10.95 Blut-sau-gen CD-C/Ja-
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 92--93
+Underfull \hbox (badness 2707) in paragraph at lines 103--104
 [][]\OT1/cmr/m/n/10.95 Malaria ist ei-ne vor al-lem in den tro-pi-
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 92--93
+Underfull \hbox (badness 1132) in paragraph at lines 103--104
 \OT1/cmr/m/n/10.95 schen Re-gio-nen Afri-kas an-zu-tref-fen, aber auch
  []
 
 
-Underfull \hbox (badness 2486) in paragraph at lines 92--93
+Underfull \hbox (badness 2486) in paragraph at lines 103--104
 \OT1/cmr/m/n/10.95 in S[]udostasien und in den n[]ordlichen Tei-len
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 92--93
+Underfull \hbox (badness 3098) in paragraph at lines 103--104
 \OT1/cmr/m/n/10.95 die h[]aufigste Tro-pen-krank-heit. Der wich-tig-ste
  []
 
-[3 <./Anophelesmucke.png>]
-<Trypanosoma.png, id=22, 326.21875pt x 230.8625pt>
+<Trypanosoma.png, id=27, 326.21875pt x 230.8625pt>
 File: Trypanosoma.png Graphic file (type png)
 <use Trypanosoma.png>
-Package pdftex.def Info: Trypanosoma.png  used on input line 95.
+Package pdftex.def Info: Trypanosoma.png  used on input line 106.
 (pdftex.def)             Requested size: 108.0011pt x 76.43144pt.
 
-Underfull \hbox (badness 1888) in paragraph at lines 96--96
+Underfull \hbox (badness 1888) in paragraph at lines 107--107
 []\OT1/cmr/m/n/10.95 Abbildung 3: Trypa-
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 96--96
+Underfull \hbox (badness 3713) in paragraph at lines 107--107
 \OT1/cmr/m/n/10.95 no-so-ma, die Er-re-ger
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
 \OT1/cmr/m/n/10.95 der Schlaf-krank-heit
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 98--99
+Underfull \hbox (badness 1466) in paragraph at lines 109--110
 [][]\OT1/cmr/m/n/10.95 Ebenfalls ei-ne durch ein In-sekt ver-brei-te-te
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 98--99
+Underfull \hbox (badness 3769) in paragraph at lines 109--110
 \OT1/cmr/m/n/10.95 Glie-der-schmer-zen, Lymph-kno-ten-schwel-lung und
  []
 
-<Datacenter.png, id=23, 231.86626pt x 349.305pt>
+[4 <./Anophelesmucke.png> <./Trypanosoma.png>]
+<Datacenter.png, id=33, 231.86626pt x 349.305pt>
 File: Datacenter.png Graphic file (type png)
 <use Datacenter.png>
-Package pdftex.def Info: Datacenter.png  used on input line 105.
+Package pdftex.def Info: Datacenter.png  used on input line 116.
 (pdftex.def)             Requested size: 108.0011pt x 162.7023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--106
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
 []\OT1/cmr/m/n/10.95 Abbildung 4: Da-
  []
 
-[4 <./Trypanosoma.png> <./Datacenter.png>] [5]
+[5 <./Datacenter.png>] [6] (hspfigvisual.pdf_tex
+<hspfigvisual.pdf, id=44, page=1, 75.0002pt x 64.99985pt>
+File: hspfigvisual.pdf Graphic file (type pdf)
+<use hspfigvisual.pdf, page 1>
+Package pdftex.def Info: hspfigvisual.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 360.0pt x 311.99767pt.
 
-Dokumentation.tex:129: Package inputenc Error: Unicode character α (U+03B1)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.129 ...pen-Source-Programm, das mit Hilfe der α
-                                                  -Sphären-Theorie arbeitet...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[6] [7]
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-(main_1.py
-
-main_1.py:1: Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 ...in Kretz, German Esaulkov, Leander Schäfer
-                                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:1: Package inputenc Error: Invalid UTF-8 byte "A4.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 ...in Kretz, German Esaulkov, Leander Schäfer
-                                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:11: Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...in os.listdir(input_directory):    # Für 
-                                                  jede SMI-Datei im Inputver...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:11: Package inputenc Error: Invalid UTF-8 byte "BC.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ...in os.listdir(input_directory):    # Für 
-                                                  jede SMI-Datei im Inputver...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-[8]
-
-main_1.py:18: Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ... # Die Funktion run_for_disease wird für 
-                                                  die Krankheit ausgeführt.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:18: Package inputenc Error: Invalid UTF-8 byte "BC.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ... # Die Funktion run_for_disease wird für 
-                                                  die Krankheit ausgeführt.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:18: Package inputenc Error: Invalid UTF-8 byte sequence.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ...sease wird für die Krankheit ausgeführt.
-                                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-main_1.py:18: Package inputenc Error: Invalid UTF-8 byte "BC.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ...sease wird für die Krankheit ausgeführt.
-                                                  
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-[9]) [10] [11]
-(C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
-ar Bioinformatik\Bioinformatics Python\out\Dokumentation.aux) ) 
-Here is how much of TeX's memory you used:
- 5204 strings out of 478927
- 79189 string characters out of 2852535
- 836113 words of memory out of 3000000
- 23007 multiletter control sequences out of 15000+600000
- 409576 words of font info for 48 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 61i,7n,70p,2246b,1893s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\kevin
-\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/
-kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
-C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr17.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/kevin/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/kevin/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on "C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-202
-2 - Freiburg-Seminar Bioinformatik\Bioinformatics Python\out\Dokumentation.pdf"
- (11 pages, 1099406 bytes).
-PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+!pdfTeX error: pdflatex (file C:/Users/kevin/OneDrive - birklehof.de/Uni Freibu
+rg/2021-2022 - Freiburg-Seminar Bioinformatik/Bioinformatics Python/out/hspfigv
+isual.pdf): PDF inclusion: required page does not exist <1>
+ ==> Fatal error occurred, no output PDF file produced!
