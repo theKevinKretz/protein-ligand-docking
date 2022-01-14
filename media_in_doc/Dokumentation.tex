@@ -3,7 +3,7 @@
 
 
 % Preamble
-\documentclass[10pt]{article}
+\documentclass[11pt]{article}
 \title{Protein-Liganden-Docking}
 % \subtitle{Bioinformatik gegen Malaria & Co.}
 \author{Kevin Kretz, German Esaulkov, Leander Schäfer}
@@ -17,7 +17,7 @@
 \usepackage{listings}
 \usepackage{xcolor}
 \usepackage[german]{babel}
-\usepackage[clean]{svg}
+% \usepackage[clean]{svg}
 \usepackage{csvsimple}
 
 % Code
@@ -55,11 +55,11 @@
 % Document
 \begin{document}
 
-    \csvreader[tabular=|c|c|c|c|c|c|c|c|,
-        table head=\hline Index & MODEL & RMSD_LB & RMSD_UB & SCORE & SDFMoleculeName & kkSMILES & kkTORSDO\\\hline,
-        late after line=\\\hline]%
-    {pf_table_sorted_01.csv}{Index=\kkIndex,MODEL=\kkModel,RMSD_LB=\kkRMSDLB,RMSD_UB=\kkRMSDUB,SCORE=\kkScore,SDFMoleculeName=\kkSDFMoleculeName,SMILES=\kkSMILES,TORSDO=\kkTORSDO}%
-    {\thecsvrow, \}%
+    %\csvreader[tabular=|c|c|c|c|c|c|c|c|,
+    %    table head=\hline Index & MODEL & RMSD_LB & RMSD_UB & SCORE & SDFMoleculeName & kkSMILES & kkTORSDO\\\hline,
+    %    late after line=\\\hline]%
+    %{pf_table_sorted_01.csv}{Index=\kkIndex,MODEL=\kkModel,RMSD_LB=\kkRMSDLB,RMSD_UB=\kkRMSDUB,SCORE=\kkScore,SDFMoleculeName=\kkSDFMoleculeName,SMILES=\kkSMILES,TORSDO=\kkTORSDO}%
+    %{\thecsvrow, \}%
     % {\kkIndex & \kkModel & \kkRMSDLB & \kkRMSDUB & \kkScore & \kkSDFMoleculeName & \kkSMILES & \kkTORSDO}%
 
     % \csvautotabular{pf_table_sorted_01.csv}
@@ -163,7 +163,7 @@
     Folgendes sind die Strukturformeln der Compound library und des Natürlichen Lig-anden. Alle Moleküle aus der Compound library haben als Titel ihre ChEMBL-ID, der Natürliche Ligand ist schlicht mit „ligand“ betitelt. Ähnlichkeiten sind zum Teil klar erkennbar.
         \begin{figure}
             %\includegraphics[width=\textwidth]{hspfigvisual}
-            \includegraphics[width=\textwidth]{P. Falciparum - ligands - visual}
+            \includegraphics[width=\textwidth]{P. Falciparum - ligands - visual}\label{fig:figure}
         \end{figure}
 
 
@@ -231,11 +231,15 @@
 
 
     \section{Ergebnisdiskussion}\label{sec:ergebnisdiskussion}
+    Die Suche nach tatsächlich realistischen Liganden hat sich als komplizierter herausgestellt als anfangs erwartet. Erfreulicher Weise konnten wir aber ein Python-Script schreiben, welches uns sehr bei der Arbeit geholfen hat. Dass wir auch bereits eingesetzte Arzneimittel gefunden haben, hat uns erstaunt und sehr gefreut.
+    Mit den vorliegenden Wirkstoffen wäre die Grundlage für ein echtes Heilmittel schon gegeben. Zur endgültigen Zulassung eines solchen, fehlen aber noch die Tests am Labor und die klinischen Studien für die Wirksamkeit und Unbedenklichkeit bei der Anwendung. Wir haben leider nicht die Ressourcen für solche Studien, weshalb wir diese anderen Institutionen überlassen.
+    Wir hoffen mit unserer Arbeit die Aufmerksamkeit der Öffentlichkeit auf die Krankheiten und die betroffenen Länder zu ziehen und somit einen Beitrag für die Bekämpfung der
 
     % German
 
 
     \section{Zusammenfassung}\label{sec:zusammenfassung}
+    Zusammenfassend kann man sagen, dass es uns tatsächlich gelungen ist mögliche Kandidaten für Medikamente gegen Malaria, die Afrikanische Schlafkrankheit und die Chagas-Krankheit zu finden. Unsere Forschung mit Galaxy und Alphafold hat sich als ergebnisreich erwiesen und dabei haben sich viele Wirkstoffe als vielversprechend erwiesen. Interessanterweise haben wir auch bereits existierende und verwendete Präparate gegen Malaria gefunden.
 
     % German
 
@@ -245,13 +249,13 @@
     % Zusammentragen
 
 
-    \section{Unterstützungsleistungen}\label{sec:unterstützungsleistungen}
+    \section{Unterstützungsleistungen}\label{sec:unterstuetzungsleistungen}
 
     Herr Dr. Wolfgang Maier, Bioinformatiker, Uni Freiburg
-        Generelle Unterstützung
-        Wissenschaftlicher Beirat
-        Korrekturlesen
+    Generelle Unterstützung
+    Wissenschaftlicher Beirat
+    Korrekturlesen
     Lino Riepenhausen
-        Korrekturlesen
+    Korrekturlesen
 
 \end{document}

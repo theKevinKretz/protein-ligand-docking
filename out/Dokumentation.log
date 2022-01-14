@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.12)  14 JAN 2022 18:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.12)  14 JAN 2022 18:41
 entering extended mode
 **./Dokumentation.tex
 (Dokumentation.tex
@@ -6,8 +6,8 @@ LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27>
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
 \c@section=\count183
@@ -180,82 +180,28 @@ f
 Language: germanb 2021/02/27 v2.13 German support for babel (pre-1996 orthograp
 hy)
 Package babel Info: Making " an active character on input line 139.
-))) (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty
-Package: svg 2020/11/26 v2.02k (include SVG pictures)
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-)
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
-Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
-basics and keyval usage)
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
-y
-Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
-ok-3.34.sty
-Package: scrlfile-hook-3.34 2021/11/13 v3.35 KOMA-Script package (using LaTeX h
-ooks)
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
-Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
 )))
-Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
-Already applied: [0000/00/00] Usage of raw or classic option list on input line
- 368.
-)
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/csvsimple\csvsimple.sty
 
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
-ty
-Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-) (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
-Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
-Package shellesc Info: Restricted shell escape enabled on input line 77.
-)
-\c@svg@param@lastpage=\count279
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
 
-C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty:768: LaTeX E
-rror: Unknown option `clean' for package `svg'.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.768 \FamilyProcessOptions{SVG}
-                                
-The option `clean' was not declared in package `svg', perhaps you
-misspelled its name. Try typing  <return>  to proceed.
-
-\svg@box=\box55
-\c@svg@param@currpage=\count280
-)
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent
-.sty
-Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
-
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
-Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count279
+\l__pdf_internal_box=\box55
 ))
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
-sty
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: csvsimple 2022/01/07 v2.2.1 LaTeX CSV file processing
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/csvsimple\csvsimple-leg
+acy.sty
+Package: csvsimple-legacy 2022/01/07 version 2.2.1 LaTeX2e CSV file processing
+
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
 y
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
@@ -275,10 +221,8 @@ code.tex
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s.code.tex
-Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
-
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
 \pgfkeys@pathtoks=\toks25
@@ -287,89 +231,23 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 filtered.code.tex
 \pgfkeys@tmptoks=\toks27
-))
-\pgf@x=\dimen159
-\pgf@y=\dimen160
-\pgf@xa=\dimen161
-\pgf@ya=\dimen162
-\pgf@xb=\dimen163
-\pgf@yb=\dimen164
-\pgf@xc=\dimen165
-\pgf@yc=\dimen166
-\pgf@xd=\dimen167
-\pgf@yd=\dimen168
-\w@pgf@writea=\write3
-\r@pgf@reada=\read3
-\c@pgf@counta=\count281
-\c@pgf@countb=\count282
-\c@pgf@countc=\count283
-\c@pgf@countd=\count284
-\t@pgf@toka=\toks28
-\t@pgf@tokb=\toks29
-\t@pgf@tokc=\toks30
-\pgf@sys@id@count=\count285
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
-fg
-File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-pdftex.def
-File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-common-pdf.def
-File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-ssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count286
-\pgfsyssoftpath@bigbuffer@items=\count287
-)
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-sprotocol.code.tex
-File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/csvsimple\csvsimple.sty
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
-eys2e.sty
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-08-27 L3 programming layer (loader) 
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
-File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count288
-\l__pdf_internal_box=\box57
-))
-Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
-)
-Package: csvsimple 2022/01/07 v2.2.1 LaTeX CSV file processing
-)
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/csvsimple\csvsimple-leg
-acy.sty
-Package: csvsimple-legacy 2022/01/07 version 2.2.1 LaTeX2e CSV file processing
-
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
-ty
-(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex))
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count289
+\etb@tempcnta=\count280
 )
-\csv@file=\read4
-\c@csvinputline=\count290
-\c@csvrow=\count291
-\c@csvcol=\count292
-\csv@out=\write4
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read3
+\c@csvinputline=\count281
+\c@csvrow=\count282
+\c@csvcol=\count283
+\csv@out=\write3
 )
 (C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
 ar Bioinformatik\Bioinformatics Python\out\Dokumentation.aux)
@@ -393,17 +271,17 @@ LaTeX Font Info:    ... okay on input line 56.
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count293
-\scratchdimen=\dimen169
-\scratchbox=\box58
-\nofMPsegments=\count294
-\nofMParguments=\count295
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count296
-\MPscratchDim=\dimen170
-\MPnumerator=\count297
-\makeMPintoPDFobject=\count298
-\everyMPtoPDFconversion=\toks32
+\scratchcounter=\count284
+\scratchdimen=\dimen159
+\scratchbox=\box57
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen160
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks29
 )
 (C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -415,33 +293,304 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count299
+\c@lstlisting=\count290
+<protein-ligand.png, id=1, 948.54375pt x 801.99625pt>
+File: protein-ligand.png Graphic file (type png)
+<use protein-ligand.png>
+Package pdftex.def Info: protein-ligand.png  used on input line 69.
+(pdftex.def)             Requested size: 360.0pt x 304.38237pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 69--70
+[][] 
+ []
+
+[1
+
+{C:/Users/kevin/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./protein-ligan
+d.png (PNG copy)>]
+(C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
+ar Bioinformatik\Bioinformatics Python\out\Dokumentation.toc)
+\tf@toc=\write4
+\openout4 = `Dokumentation.toc'.
+
+<Galaxy-logo.png, id=9, 401.5pt x 127.47626pt>
+File: Galaxy-logo.png Graphic file (type png)
+<use Galaxy-logo.png>
+Package pdftex.def Info: Galaxy-logo.png  used on input line 93.
+(pdftex.def)             Requested size: 108.0011pt x 34.29066pt.
+ [2]
+<Anophelesmucke.png, id=16, 326.21875pt x 215.80624pt>
+File: Anophelesmucke.png Graphic file (type png)
+<use Anophelesmucke.png>
+Package pdftex.def Info: Anophelesmucke.png  used on input line 102.
+(pdftex.def)             Requested size: 108.0011pt x 71.44678pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\OT1/cmr/m/n/10.95 Abbildung 2: Die
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 103--103
+\OT1/cmr/m/n/10.95 Blut-sau-gen CD-C/Ja-
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 105--106
+[][]\OT1/cmr/m/n/10.95 Malaria ist ei-ne vor al-lem in den tro-pi-
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 105--106
+\OT1/cmr/m/n/10.95 schen Re-gio-nen Afri-kas an-zu-tref-fen, aber auch
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 105--106
+\OT1/cmr/m/n/10.95 in S[]udostasien und in den n[]ordlichen Tei-len
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 105--106
+\OT1/cmr/m/n/10.95 die h[]aufigste Tro-pen-krank-heit. Der wich-tig-ste
+ []
+
+[3 <./Galaxy-logo.png> <./Anophelesmucke.png>]
+<Trypanosoma.png, id=22, 326.21875pt x 230.8625pt>
+File: Trypanosoma.png Graphic file (type png)
+<use Trypanosoma.png>
+Package pdftex.def Info: Trypanosoma.png  used on input line 108.
+(pdftex.def)             Requested size: 108.0011pt x 76.43144pt.
+
+Underfull \hbox (badness 1881) in paragraph at lines 109--109
+[]\OT1/cmr/m/n/10.95 Abbildung 3: Trypa-
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 109--109
+\OT1/cmr/m/n/10.95 no-so-ma, die Er-re-ger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\OT1/cmr/m/n/10.95 der Schlaf-krank-heit
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 111--112
+[][]\OT1/cmr/m/n/10.95 Ebenfalls ei-ne durch ein In-sekt ver-brei-te-te
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 111--112
+\OT1/cmr/m/n/10.95 Glie-der-schmer-zen, Lymph-kno-ten-schwel-lung und
+ []
+
+<Datacenter.png, id=23, 231.86626pt x 349.305pt>
+File: Datacenter.png Graphic file (type png)
+<use Datacenter.png>
+Package pdftex.def Info: Datacenter.png  used on input line 118.
+(pdftex.def)             Requested size: 108.0011pt x 162.7023pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[]\OT1/cmr/m/n/10.95 Abbildung 4: Da-
+ []
+
+[4 <./Trypanosoma.png> <./Datacenter.png>]
+<P. Falciparum - ligands - visual.png, id=30, 1244.4894pt x 1067.187pt>
+File: P. Falciparum - ligands - visual.png Graphic file (type png)
+<use P. Falciparum - ligands - visual.png>
+Package pdftex.def Info: P. Falciparum - ligands - visual.png  used on input li
+ne 166.
+(pdftex.def)             Requested size: 360.0pt x 308.71095pt.
+ [5]
+
+Dokumentation.tex:172: Package inputenc Error: Unicode character α (U+03B1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.172 ...pen-Source-Programm, das mit Hilfe der α
+                                                  -Sphären-Theorie arbeitet...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[6] [7 <./P. Falciparum - ligands - visual.png>] [8]
+Overfull \hbox (1.52988pt too wide) in paragraph at lines 205--211
+ \OT1/cmr/bx/n/10.95 Er-geb-nis-se des Dockings auf-be-rei-ten[] \OT1/cmr/m/n/1
+0.95 Um die Er-geb-nis-se des Dockings,
+ []
+
+[9]
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-Runaway argument?
-{\thecsvrow , \}\par \par \maketitle \par \includegraphics [width=\linewidth \E
-TC.
-! File ended while scanning use of \csv@reader.
-<inserted text> 
-                \par 
-<*> ./Dokumentation.tex
-                       
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+(main_1.py
 
-! Emergency stop.
-<*> ./Dokumentation.tex
-                       
-*** (job aborted, no legal \end found)
+main_1.py:1: Package inputenc Error: Invalid UTF-8 byte sequence.
 
- 
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...in Kretz, German Esaulkov, Leander Schäfer
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+main_1.py:1: Package inputenc Error: Invalid UTF-8 byte "A4.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...in Kretz, German Esaulkov, Leander Schäfer
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+main_1.py:11: Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...in os.listdir(input_directory):    # Für 
+                                                  jede SMI-Datei im Inputver...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+main_1.py:11: Package inputenc Error: Invalid UTF-8 byte "BC.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...in os.listdir(input_directory):    # Für 
+                                                  jede SMI-Datei im Inputver...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+main_1.py:18: Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ... # Die Funktion run_for_disease wird für 
+                                                  die Krankheit ausgeführt.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+main_1.py:18: Package inputenc Error: Invalid UTF-8 byte "BC.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ... # Die Funktion run_for_disease wird für 
+                                                  die Krankheit ausgeführt.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+main_1.py:18: Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...sease wird für die Krankheit ausgeführt.
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+main_1.py:18: Package inputenc Error: Invalid UTF-8 byte "BC.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...sease wird für die Krankheit ausgeführt.
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+[10] [11]) [12]
+Overfull \hbox (5.76208pt too wide) in paragraph at lines 242--243
+\OT1/cmr/m/n/10.95 m[]ogliche Kan-di-da-ten f[]ur Me-di-ka-men-te ge-gen Ma-la-
+ria, die Afri-ka-ni-sche Schlaf-
+ []
+
+
+Overfull \hbox (21.41998pt too wide) in paragraph at lines 254--260
+\OT1/cmr/m/n/10.95 Herr Dr. Wolf-gang Mai-er, Bio-in-for-ma-ti-ker, Uni Frei-bu
+rg Ge-ne-rel-le Un-terst[]utzung
+ []
+
+[13]
+(C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
+ar Bioinformatik\Bioinformatics Python\out\Dokumentation.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7902 strings out of 478927
- 139651 string characters out of 2852535
- 480720 words of memory out of 3000000
- 25629 multiletter control sequences out of 15000+600000
- 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 7000 strings out of 478927
+ 115510 string characters out of 2852535
+ 884357 words of memory out of 3000000
+ 24760 multiletter control sequences out of 15000+600000
+ 410474 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,1n,94p,2229b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 70i,7n,81p,2265b,1895s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\kevin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1095.pk><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kevin/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/kevin/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/kevin/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on "C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-202
+2 - Freiburg-Seminar Bioinformatik\Bioinformatics Python\out\Dokumentation.pdf"
+ (13 pages, 1324239 bytes).
+PDF statistics:
+ 97 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
