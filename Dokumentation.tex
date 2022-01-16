@@ -21,6 +21,7 @@
 \usepackage[a4paper, portrait, margin=2.5cm]{geometry}
 \usepackage[hyphens]{url}
 \PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
+\usepackage{float}
 
 
 % Code
@@ -223,9 +224,6 @@
     Wie genau das abläuft wird im weiteren Verlauf erläutert.
 
 
-% TODO images
-
-
     \section{Vorgehensweise, Materialien und Methode}\label{sec:vorgehensweise-materialien-und-methode}
 
     \subsection{Proteine und natürliche Liganden finden}\label{subsec:proteine-und-natuerliche-liganden-finden}
@@ -365,8 +363,6 @@
     Die Abbildungen zeigen die Strukturformeln der Compound library und des natürlichen Liganden. Alle Moleküle aus der
     Compound library haben als Titel ihre ChEMBL-ID. Ähnlichkeiten sind zum Teil klar erkennbar.
 
-    % todo make readable
-
     \subsubsection{Dateien für das Docking vorbereiten}\label{subsubsec:dateien-fuer-das-docking-vorbereiten}
 
     Nun konvertierten wir das Protein, also den Rezeptor, in eine PDBQT-Datei (wir nannten sie \emph{Prepared
@@ -406,7 +402,8 @@
     steht.\cite{20, 21} AutoDock Vina ist ein Open-Source-Programm, das von \texttt{The Scripps Research
     Institute} entwickelt
     wurde.\cite{29} In
-    Tests, in denen es mit anderen Molekular-Docking-Simulationsprogrammen verglichen wurde, schnitt es gut bis sehr
+    Tests, in denen es mit anderen Molecular-Docking-
+    Simulationsprogrammen verglichen wurde, schnitt es gut bis sehr
     gut ab und findet dementsprechend die größte Verwendung.
 
     AutoDock Vina legt um die pocket ein virtuelles dreidimensionales Gitter mit sehr kleinen Abständen im
@@ -465,6 +462,7 @@
     Tool eine Selbstähnlichkeitsmatrix erstellte, um die Ähnlichkeit zu ermitteln.
 
     \subsubsection{Ergebnisse des Dockings auswerten}
+
     \paragraph{Veranschaulichung}
     Um die Ergebnisse des Dockings, die bisher noch in unterschiedlichen SDF-Dateien lagen, übersichtlicher zu
     machen, verwendeten wir das Tool \texttt{Extract values from an SD-file}. Input war die im Docking-Schritt erstellte
@@ -487,11 +485,17 @@
     Liganden hochladen, und so beide in der beim Docking bewerteten Position visualisiert betrachten.
 
     \paragraph{Substrukturen-Abgleich mit Python}
-    Nun wollten wir ChEMBL nach Molekülen durchsuchen, die Moleküle aus unserer Compound library without errors
+    Nun wollten wir ChEMBL nach Molekülen durchsuchen, die Moleküle aus unserer \texttt{Compound library without errors}
     als Substrukturen besitzen und die bereits als Medikament verwendet werden oder sich im Prozess der
-    Medikamentenentwicklung befinden. Dazu schrieben wir ein Python-Script, das folgendermaßen funktionierte:
+    Medikamentenentwicklung befinden.
+    Da ein solcher Abgleich manuell enorm Zeitintensiv gewesen wäre, automatisierten wir diesen mit Python.
 
-    Das Programm ist zu finden unter: \url{https://github.com/theKevinKretz/Protein-Ligand-Docking/blob/master/main.py}
+    Das Repository ist unter \url{https://github.com/theKevinKretz/Protein-Ligand-Docking} auf
+    GitHub veröffentlicht.
+
+    Die ausführbare Datei ist
+    die \href{https://github.com/theKevinKretz/Protein-Ligand-Docking/blob/master/main.py}{\texttt{main.py}}.
+
     Die Funktion \texttt{main()} ist die Hauptfunktion.
     Sie ruft für jede der SMI-Dateien im Inputverzeichnis \texttt{Input smi-files/} die Funktion
     \texttt{run\_for\_disease} auf.
@@ -505,10 +509,6 @@
     Substrukturen-Suche, sowie der \texttt{max\_phase}-Wert in der Dictionary-Variablen \texttt{everything} gespeichert.
     Der Inhalt der Variablen wird in der Datei \texttt{output.json} gespeichert und durch die Funktion
     \texttt{make\_look\_good} aufbereitet und in der Konsole ausgegeben.
-
-    Das vollständige Script befindet sich im Anhang.
-
-% TODO Anhang Script
 
     Von den gefundenen Ergebnissen suchten wir uns passende SMILES-Strings von Wikipedia, luden diese dann als
     SMI-Dateien hoch, präparierten sie für das Docking und dockten sie. Die Docking-Datei konvertierten wir wieder in
@@ -574,6 +574,8 @@
         \caption{Flowchart: Chagas-Krankheit}
     \end{figure}
 
+    \pagebreak
+
 
     \section{Ergebnisse}\label{sec:ergebnisse}
 
@@ -582,7 +584,7 @@
     \subsubsection{Liganden-Clustering}
 
     \begin{wrapfigure}{r}{0.5\textwidth}
-        \includegraphics[width=\linewidth]{NxN-Clustering}
+        \includegraphics[width=\linewidth]{malaria-NxN_clustering}
         \caption{NxN-Clustering}\label{fig:nxn}
     \end{wrapfigure}
 
@@ -599,7 +601,6 @@
     Ligand).
 
     % Abbildung 6: NxN-Clustering
-% todo quellen aktualisieren
     % todo script fixen
 
     Je höher die Zahl auf der y-Achse, desto geringer ist die Ähnlichkeit. Die Ergebnisse sind denen des
@@ -651,10 +652,10 @@
     % Abbildung 7: CHEMBL1326498
 
 
-    Hier die Visualisierung von \texttt{CHEMBL1326498} und \emph{Plasmodium Falciparum} in ihrer stabilsten Bindung:
+    Hier die Visualisierung von \texttt{CHEMBL1326498} und \emph{Protein DJ-1} in ihrer stabilsten Bindung:
 
     % Abbildung 8: P. Facliparum mit gedocktem CHEMBL1326498
-    \begin{figure}[h]
+    \begin{figure}[H]
         \centering
         \includegraphics[width=0.6\linewidth]{Protein DJ-1 mit gedocktem CHEMBL1326498}
         \caption{Protein DJ-1 mit gedocktem CHEMBL1326498}\label{fig:figure-pf-CHEMBL1326498}
@@ -674,7 +675,7 @@
     einem Score von -4,1 ziemlich gut bindet.
 
     % Abbildung 9: P. Facliparum mit gedocktem Pramipexole
-    \begin{figure}
+    \begin{figure}[H]
         \centering
         \includegraphics[width=0.6\linewidth]{Protein DJ-1 mit gedocktem Pramipexole}
         \caption{Protein DJ-1 mit gedocktem Pramipexole}\label{fig:figure-pf-pramipexole}
@@ -688,7 +689,7 @@
     -10,4) die besten Bindungen mit dem Hitzeschockprotein 83.
 
     % Abbildung 10: HSP 83 mit gedocktem CHEMBL561498
-    \begin{figure}
+    \begin{figure}[H]
         \centering
         \includegraphics[width=0.6\linewidth]{HSP83 mit gedocktem CHEMBL561498}
         \caption{HSP83 mit gedocktem CHEMBL561498}\label{fig:figure-hsp-CHEMBL561498}
@@ -702,7 +703,7 @@
     Score von -10,1 sehr gut.
 
     % Abbildung 11: HSP83 mit gedocktem CHEMBL1195136
-    \begin{figure}
+    \begin{figure}[H]
         \centering
         \includegraphics[width=0.6\linewidth]{HSP83 mit gedocktem CHEMBL1195136}
         \caption{HSP83 mit gedocktem CHEMBL1195136}\label{fig:figure-hsp-CHEMBL1195136}
@@ -715,7 +716,7 @@
     vielversprechendsten Inhibitor aus der von uns untersuchten Reihe von Azolverbindungen dar.
 
     % Abbildung 12: Sterol 14-alpha demethylase mit gedocktem Itraconazol
-    \begin{figure}
+    \begin{figure}[H]
         \centering
         \includegraphics[width=0.6\linewidth]{Sterol 14-alpha demethylase mit gedocktem Itraconazol}
         \caption{Sterol 14-alpha demethylase mit gedocktem Itraconazol}\label{fig:figure-sterol-Itraconazol}

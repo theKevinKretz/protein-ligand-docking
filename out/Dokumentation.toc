@@ -7,8 +7,8 @@
 \contentsline {paragraph}{Werkzeuge}{4}{section*.4}%
 \contentsline {section}{\numberline {4}Vorgehensweise, Materialien und Methode}{4}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Proteine und natürliche Liganden finden}{4}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Malaria}{4}{subsubsection.4.1.1}%
-\contentsline {paragraph}{Protein}{4}{section*.5}%
+\contentsline {subsubsection}{\numberline {4.1.1}Malaria}{5}{subsubsection.4.1.1}%
+\contentsline {paragraph}{Protein}{5}{section*.5}%
 \contentsline {paragraph}{Ligand}{5}{section*.6}%
 \contentsline {subsubsection}{\numberline {4.1.2}Afrikanische Schlafkrankheit}{5}{subsubsection.4.1.2}%
 \contentsline {paragraph}{Protein}{5}{section*.7}%
@@ -34,9 +34,8 @@
 \contentsline {subsection}{\numberline {5.1}Malaria}{10}{subsection.5.1}%
 \contentsline {subsubsection}{\numberline {5.1.1}Liganden-Clustering}{10}{subsubsection.5.1.1}%
 \contentsline {subsubsection}{\numberline {5.1.2}Docking-Ergebnisse}{10}{subsubsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.2}Afrikanische Schlafkrankheit}{10}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Chagas-Krankheit}{11}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Ergebnisdiskussion}{11}{section.6}%
-\contentsline {section}{\numberline {7}Zusammenfassung}{11}{section.7}%
-\contentsline {section}{\numberline {8}Quellen- und Literaturverzeichnis}{13}{section.8}%
-\contentsline {section}{\numberline {9}Unterstützungsleistungen}{15}{section.9}%
+\contentsline {subsection}{\numberline {5.2}Afrikanische Schlafkrankheit}{12}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Chagas-Krankheit}{13}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Ergebnisdiskussion}{13}{section.6}%
+\contentsline {section}{\numberline {7}Zusammenfassung}{14}{section.7}%
+\contentsline {section}{\numberline {8}Quellen- und Literaturverzeichnis}{14}{section.8}%
