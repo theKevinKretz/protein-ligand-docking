@@ -39,3 +39,4 @@
 \contentsline {section}{\numberline {6}Ergebnisdiskussion}{13}{section.6}%
 \contentsline {section}{\numberline {7}Zusammenfassung}{14}{section.7}%
 \contentsline {section}{\numberline {8}Quellen- und Literaturverzeichnis}{14}{section.8}%
+\contentsline {section}{\numberline {9}Unterstützungsleistungen}{16}{section.9}%
