@@ -1,11 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.12)  16 JAN 2022 22:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.1.12)  16 JAN 2022 22:33
 entering extended mode
-**./Dokumentation.tex
-(Dokumentation.tex
+**"./Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arbeit - Kev
+in Kretz, German Esaulkov, Leander Schäfer.tex"
+
+(Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arbeit - Kevin K
+retz, German Esaulkov, Leander Schäfer.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27>
 
-Dokumentation.tex:4: LaTeX Error: \usepackage before \documentclass.
+Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arbeit - Kevin Kr
+etz, German Esaulkov, Leander Schäfer.tex:4: LaTeX Error: \usepackage before \
+documentclass.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -432,8 +437,11 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 Package hyperref Info: Option `colorlinks' set `false' on input line 59.
 
 (C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
-ar Bioinformatik\Bioinformatics Python\out\Dokumentation.aux)
-\openout1 = `Dokumentation.aux'.
+ar Bioinformatik\Bioinformatics Python\out\Jugend forscht 2022 - Protein-Ligand
+en-Docking - Schriftliche Arbeit - Kevin Kretz, German Esaulkov, Leander Schäf
+er.aux)
+\openout1 = `"Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arb
+eit - Kevin Kretz, German Esaulkov, Leander Schäfer.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
 LaTeX Font Info:    ... okay on input line 68.
@@ -533,11 +541,16 @@ LaTeX Info: Redefining \pageref on input line 68.
 LaTeX Info: Redefining \nameref on input line 68.
 
 (C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
-ar Bioinformatik\Bioinformatics Python\out\Dokumentation.out)
+ar Bioinformatik\Bioinformatics Python\out\Jugend forscht 2022 - Protein-Ligand
+en-Docking - Schriftliche Arbeit - Kevin Kretz, German Esaulkov, Leander Schäf
+er.out)
 (C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
-ar Bioinformatik\Bioinformatics Python\out\Dokumentation.out)
+ar Bioinformatik\Bioinformatics Python\out\Jugend forscht 2022 - Protein-Ligand
+en-Docking - Schriftliche Arbeit - Kevin Kretz, German Esaulkov, Leander Schäf
+er.out)
 \@outlinefile=\write4
-\openout4 = `Dokumentation.out'.
+\openout4 = `"Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arb
+eit - Kevin Kretz, German Esaulkov, Leander Schäfer.out"'.
 
 <media_in_doc//Titelbild.png, id=111, 948.54375pt x 801.99625pt>
 File: media_in_doc//Titelbild.png Graphic file (type png)
@@ -566,9 +579,12 @@ i 2021 und der gleich-zei-tig ver[]offentlichten
 
 
 (C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
-ar Bioinformatik\Bioinformatics Python\out\Dokumentation.toc)
+ar Bioinformatik\Bioinformatics Python\out\Jugend forscht 2022 - Protein-Ligand
+en-Docking - Schriftliche Arbeit - Kevin Kretz, German Esaulkov, Leander Schäf
+er.toc)
 \tf@toc=\write5
-\openout5 = `Dokumentation.toc'.
+\openout5 = `"Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arb
+eit - Kevin Kretz, German Esaulkov, Leander Schäfer.toc"'.
 
  [2]
 <media_in_doc//Anophelesmucke.png, id=156, 326.21875pt x 215.80624pt>
@@ -623,12 +639,7 @@ File: media_in_doc//Galaxy-logo.png Graphic file (type png)
 <use media_in_doc//Galaxy-logo.png>
 Package pdftex.def Info: media_in_doc//Galaxy-logo.png  used on input line 186.
 
-(pdftex.def)             Requested size: 136.57462pt x 43.36275pt.
-
-Underfull \hbox (badness 1796) in paragraph at lines 190--194
-[][]\OT1/cmr/m/n/10 Galaxy ist ei-ne brow-ser-ba-sier-te Platt-form f[]ur Com-p
-u-ta-tio-nal
- []
+(pdftex.def)             Requested size: 127.46779pt x 40.47034pt.
 
 
 Package wrapfig Warning: Collision between wrapping environments on input line 
@@ -638,16 +649,10 @@ Package wrapfig Warning: Collision between wrapping environments on input line
 File: media_in_doc//Datacenter.png Graphic file (type png)
 <use media_in_doc//Datacenter.png>
 Package pdftex.def Info: media_in_doc//Datacenter.png  used on input line 196.
-(pdftex.def)             Requested size: 136.57462pt x 205.75237pt.
+(pdftex.def)             Requested size: 127.46779pt x 192.03305pt.
 
 Package wrapfig Warning: Stationary wrapfigure forced to float on input line 20
 0.
-
-
-Underfull \hbox (badness 3271) in paragraph at lines 200--205
-\OT1/cmr/m/n/10 ([]$\OT1/cmtt/m/n/10 https : / / usegalaxy . eu$[]\OT1/cmr/m/n/
-10 ) ver-wen-det, da uns ihr groes Clu-ster
- []
 
 [4pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
 has been already used, duplicate ignored
@@ -686,7 +691,9 @@ has been already used, duplicate ignored
 l.332 
        <./media_in_doc//Aussehen der Galaxy-Website.png>]
 
-Dokumentation.tex:334: LaTeX Error: Environment subfigure undefined.
+Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arbeit - Kevin Kr
+etz, German Esaulkov, Leander Schäfer.tex:334: LaTeX Error: Environment subfig
+ure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -707,8 +714,9 @@ Package pdftex.def Info: media_in_doc//Strukturformel natürlicher Ligand.png
 used on input line 335.
 (pdftex.def)             Requested size: 95.6018pt x 86.45392pt.
 
-Dokumentation.tex:338: LaTeX Error: \begin{wrapfigure} on input line 333 ended 
-by \end{subfigure}.
+Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arbeit - Kevin Kr
+etz, German Esaulkov, Leander Schäfer.tex:338: LaTeX Error: \begin{wrapfigure}
+ on input line 333 ended by \end{subfigure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -721,7 +729,9 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Dokumentation.tex:339: LaTeX Error: Environment subfigure undefined.
+Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arbeit - Kevin Kr
+etz, German Esaulkov, Leander Schäfer.tex:339: LaTeX Error: Environment subfig
+ure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -742,8 +752,9 @@ Package pdftex.def Info: media_in_doc//Strukturformeln Compound library.png  us
 ed on input line 340.
 (pdftex.def)             Requested size: 318.66948pt x 272.87314pt.
 
-Dokumentation.tex:343: LaTeX Error: \begin{wrapfigure} on input line 333 ended 
-by \end{subfigure}.
+Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arbeit - Kevin Kr
+etz, German Esaulkov, Leander Schäfer.tex:343: LaTeX Error: \begin{wrapfigure}
+ on input line 333 ended by \end{subfigure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -847,9 +858,6 @@ File: media_in_doc//malaria-flowchart.png Graphic file (type png)
 Package pdftex.def Info: media_in_doc//malaria-flowchart.png  used on input lin
 e 529.
 (pdftex.def)             Requested size: 318.66948pt x 143.81697pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 [8]
 <media_in_doc//afrikanische schlafkrankheit-flowchart.png, id=297, 6215.22pt x 
 3854.4pt>
@@ -871,70 +879,67 @@ File: media_in_doc//chagas-flowchart.png Graphic file (type png)
 Package pdftex.def Info: media_in_doc//chagas-flowchart.png  used on input line
  573.
 (pdftex.def)             Requested size: 318.66948pt x 150.68466pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 [9pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.578 
+l.576 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.578 
+l.576 
        <./media_in_doc//malaria-flowchart.png> <./media_in_doc//afrikanische sc
 hlafkrankheit-flowchart.png>]
 <media_in_doc//malaria-NxN_clustering.png, id=309, 462.528pt x 346.896pt>
 File: media_in_doc//malaria-NxN_clustering.png Graphic file (type png)
 <use media_in_doc//malaria-NxN_clustering.png>
 Package pdftex.def Info: media_in_doc//malaria-NxN_clustering.png  used on inpu
-t line 587.
+t line 584.
 (pdftex.def)             Requested size: 227.62206pt x 170.71628pt.
 
-Underfull \hbox (badness 1776) in paragraph at lines 591--598
+Underfull \hbox (badness 1776) in paragraph at lines 588--595
 []\OT1/cmr/m/n/10 Das Taylor-Butina Clu-ste-ring er-gab, dass im
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 591--598
+Underfull \hbox (badness 1810) in paragraph at lines 588--595
 \OT1/cmr/m/n/10 Fall von Ma-la-ria f[]unf Clu-ster be-ste-hen. Der
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 599--602
+Underfull \hbox (badness 2753) in paragraph at lines 596--599
 []\OT1/cmr/m/n/10 Das hier-ar-chi-sche Den-do-gramm des NxN-
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 610--612
+Underfull \hbox (badness 1917) in paragraph at lines 606--608
 \OT1/cmr/m/n/10 Dies ist die Tabular-Datei, die die Docking-
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 610--612
+Underfull \hbox (badness 4872) in paragraph at lines 606--608
 \OT1/cmr/m/n/10 Ergebnisse Tor-si-on f[]ur Tor-si-on, nach Sco-re
  []
 
 
-Underfull \hbox (badness 4805) in paragraph at lines 610--612
+Underfull \hbox (badness 4805) in paragraph at lines 606--608
 \OT1/cmr/m/n/10 sor-tiert auf-li-stet, hier die be-sten zehn Er-
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 610--612
+Underfull \hbox (badness 6608) in paragraph at lines 606--608
 \OT1/cmr/m/n/10 geb-nis-se (SMILES-Strings aus Gr[]unden der
  []
 
 <media_in_doc//CHEMBL1326498.png, id=310, 455.45157pt x 288.3272pt>
 File: media_in_doc//CHEMBL1326498.png Graphic file (type png)
 <use media_in_doc//CHEMBL1326498.png>
-Package pdftex.def Info: media_in_doc//CHEMBL1326498.png  used on input line 64
-3.
+Package pdftex.def Info: media_in_doc//CHEMBL1326498.png  used on input line 63
+9.
 (pdftex.def)             Requested size: 91.04742pt x 57.63802pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 644--644
+Underfull \hbox (badness 10000) in paragraph at lines 640--640
 []\OT1/cmr/m/n/10 Abbildung 12:
  []
 
@@ -942,23 +947,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 644--644
 ) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.647     D
+l.643     D
            emnach sind die Liganden, die die fünf stabilsten Bindungen erzi...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.647     D
+l.643     D
            emnach sind die Liganden, die die fünf stabilsten Bindungen erzi...
  <./media_in_doc//chagas-flowchart.png> <./media_in_doc//malaria-NxN_clustering
 .png>]
-Underfull \hbox (badness 1454) in paragraph at lines 647--651
+Underfull \hbox (badness 1454) in paragraph at lines 643--647
 [][]\OT1/cmr/m/n/10 Demnach sind die Li-gan-den, die die f[]unf sta-bil-sten Bi
 n-dun-gen er-zielt
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 647--651
+Underfull \hbox (badness 1371) in paragraph at lines 643--647
 \OT1/cmr/m/n/10 ha-ben, die Li-gan-den Num-mer 7: \OT1/cmtt/m/n/10 CHEMBL132649
 8\OT1/cmr/m/n/10 , 38: \OT1/cmtt/m/n/10 CHEMBL1625135\OT1/cmr/m/n/10 , 19:
  []
@@ -969,7 +974,7 @@ File: media_in_doc//Protein DJ-1 mit gedocktem CHEMBL1326498.png Graphic file (
 type png)
 <use media_in_doc//Protein DJ-1 mit gedocktem CHEMBL1326498.png>
 Package pdftex.def Info: media_in_doc//Protein DJ-1 mit gedocktem CHEMBL1326498
-.png  used on input line 660.
+.png  used on input line 656.
 (pdftex.def)             Requested size: 273.14923pt x 230.71431pt.
 <media_in_doc//Protein DJ-1 mit gedocktem Pramipexole.png, id=321, 456.95718pt 
 x 461.47406pt>
@@ -977,18 +982,18 @@ File: media_in_doc//Protein DJ-1 mit gedocktem Pramipexole.png Graphic file (ty
 pe png)
 <use media_in_doc//Protein DJ-1 mit gedocktem Pramipexole.png>
 Package pdftex.def Info: media_in_doc//Protein DJ-1 mit gedocktem Pramipexole.p
-ng  used on input line 680.
+ng  used on input line 676.
 (pdftex.def)             Requested size: 273.14923pt x 275.85849pt.
 [11pdfTeX warning (ext4): destination with the same identifier (name{figure.12}
 ) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.683 
+l.679 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 13}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.683 
+l.679 
        <./media_in_doc//CHEMBL1326498.png> <./media_in_doc//Protein DJ-1 mit ge
 docktem CHEMBL1326498.png>]
 <media_in_doc//HSP83 mit gedocktem CHEMBL561498.png, id=331, 456.95718pt x 244.
@@ -997,7 +1002,7 @@ File: media_in_doc//HSP83 mit gedocktem CHEMBL561498.png Graphic file (type png
 )
 <use media_in_doc//HSP83 mit gedocktem CHEMBL561498.png>
 Package pdftex.def Info: media_in_doc//HSP83 mit gedocktem CHEMBL561498.png  us
-ed on input line 694.
+ed on input line 690.
 (pdftex.def)             Requested size: 273.14923pt x 146.2545pt.
 <media_in_doc//HSP83 mit gedocktem CHEMBL1195136.png, id=333, 456.95718pt x 278
 .54062pt>
@@ -1005,18 +1010,18 @@ File: media_in_doc//HSP83 mit gedocktem CHEMBL1195136.png Graphic file (type pn
 g)
 <use media_in_doc//HSP83 mit gedocktem CHEMBL1195136.png>
 Package pdftex.def Info: media_in_doc//HSP83 mit gedocktem CHEMBL1195136.png  u
-sed on input line 708.
+sed on input line 704.
 (pdftex.def)             Requested size: 273.14923pt x 166.50513pt.
  [12pdfTeX warning (ext4): destination with the same identifier (name{figure.14
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.711 
+l.707 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 15}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.711 
+l.707 
        <./media_in_doc//Protein DJ-1 mit gedocktem Pramipexole.png> <./media_in
 _doc//HSP83 mit gedocktem CHEMBL561498.png>]
 <media_in_doc//Sterol 14-alpha demethylase mit gedocktem Itraconazol.png, id=34
@@ -1025,18 +1030,18 @@ File: media_in_doc//Sterol 14-alpha demethylase mit gedocktem Itraconazol.png G
 raphic file (type png)
 <use media_in_doc//Sterol 14-alpha demethylase mit gedocktem Itraconazol.png>
 Package pdftex.def Info: media_in_doc//Sterol 14-alpha demethylase mit gedockte
-m Itraconazol.png  used on input line 721.
+m Itraconazol.png  used on input line 717.
 (pdftex.def)             Requested size: 273.14923pt x 220.05678pt.
  [13pdfTeX warning (ext4): destination with the same identifier (name{figure.16
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.742 
+l.738 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 17}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.742 
+l.738 
        <./media_in_doc//HSP83 mit gedocktem CHEMBL1195136.png> <./media_in_doc/
 /Sterol 14-alpha demethylase mit gedocktem Itraconazol.png>]
 (Documentation-attachments/quellen--und-literaturverzeichnis.tex
@@ -1360,18 +1365,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--99
 
 [15]) [16]
 (C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-2022 - Freiburg-Semin
-ar Bioinformatik\Bioinformatics Python\out\Dokumentation.aux)
-Package rerunfilecheck Info: File `Dokumentation.out' has not changed.
+ar Bioinformatik\Bioinformatics Python\out\Jugend forscht 2022 - Protein-Ligand
+en-Docking - Schriftliche Arbeit - Kevin Kretz, German Esaulkov, Leander Schäf
+er.aux)
+Package rerunfilecheck Info: File `"Jugend forscht 2022 - Protein-Liganden-Dock
+ing - Schriftliche Arbeit - Kevin Kretz, German Esaulkov, Leander Schäfer".out
+' has not changed.
 (rerunfilecheck)             Checksum: 24118BC509D3038F643A25A73E5E4661;4518.
  ) 
 Here is how much of TeX's memory you used:
- 13929 strings out of 478927
- 227869 string characters out of 2852535
- 567460 words of memory out of 3000000
- 31449 multiletter control sequences out of 15000+600000
+ 13932 strings out of 478927
+ 230566 string characters out of 2852535
+ 567984 words of memory out of 3000000
+ 31452 multiletter control sequences out of 15000+600000
  410039 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,7n,81p,509b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,7n,81p,615b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\kevin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcti
 1000.pk> <C:\Users\kevin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm1000.pk><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1383,8 +1392,9 @@ rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/kevin/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/kevi
 n/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on "C:/Users\kevin\OneDrive - birklehof.de\Uni Freiburg\2021-202
-2 - Freiburg-Seminar Bioinformatik\Bioinformatics Python\out\Dokumentation.pdf"
- (16 pages, 3476111 bytes).
+2 - Freiburg-Seminar Bioinformatik\Bioinformatics Python\out\Jugend forscht 202
+2 - Protein-Liganden-Docking - Schriftliche Arbeit - Kevin Kretz, German Esaulk
+ov, Leander Schäfer.pdf" (16 pages, 3476112 bytes).
 PDF statistics:
  478 PDF objects out of 1000 (max. 8388607)
  113 named destinations out of 1000 (max. 500000)

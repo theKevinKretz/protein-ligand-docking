@@ -27,8 +27,8 @@
 \contentsline {subsubsection}{\numberline {4.3.2}Ergebnisse des Dockings auswerten}{8}{subsubsection.4.3.2}%
 \contentsline {paragraph}{Veranschaulichung}{8}{section*.13}%
 \contentsline {paragraph}{Substrukturen-Abgleich mit Python}{8}{section*.14}%
-\contentsline {subsection}{\numberline {4.4}Andere Krankheiten}{8}{subsection.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.1}Afrikanische Schlafkrankheit}{8}{subsubsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4}Andere Krankheiten}{9}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Afrikanische Schlafkrankheit}{9}{subsubsection.4.4.1}%
 \contentsline {subsubsection}{\numberline {4.4.2}Chagas-Krankheit}{9}{subsubsection.4.4.2}%
 \contentsline {section}{\numberline {5}Ergebnisse}{10}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Malaria}{10}{subsection.5.1}%
