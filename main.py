@@ -3,21 +3,21 @@ import requests
 import xml.etree.ElementTree as ET
 import json
 
-input_directory = "Input smi-files/"
+input_directory = "input_smi-files"
+diseases_dir = "diseases"
 output = open("output.json", "w")
 
 
 def main():  # Hauptfunktion: Ruft andere Funktionen auf.
     everything = {}
     for smi_filename in os.listdir(input_directory):  # Für jede SMI-Datei im Inputverzeichnis wird Folgendes getan:
-        smi_path = input_directory + smi_filename
+        smi_path = os.path.join(input_directory, smi_filename)
         disease_name = smi_filename.rsplit(".")[0]  # Der Name der Krankheit wird eingelesen.
-        disease_dir = disease_name + "/"
+        disease_dir = os.path.join(diseases_dir, disease_name)
         if not os.path.exists(disease_dir):
             os.makedirs(disease_dir)
         print(disease_name)
-        results_of_disease = run_for_disease(smi_path,
-                                             disease_dir)  # Die Funktion run_for_disease wird für die Krankheit ausgeführt.
+        results_of_disease = run_for_disease(smi_path, disease_dir)  # Die Funktion run_for_disease wird für die Krankheit ausgeführt.
         print(make_look_good(results_of_disease))
         everything.update({disease_name: results_of_disease})
 
@@ -56,12 +56,6 @@ def store_file(data, filepath):  # Speichert Daten.
     file.close()
 
 
-def make_file_path(directory, chembl_id):  # Erstellt den Pfad zur Antwort einer ChEMBL-Anfrage.
-    filename = "substructure_results_" + chembl_id + ".xml"
-    filepath = directory + filename
-    return filepath
-
-
 def get_max_phase(filepath_of_response):  # Liest max_phase aus ChEMBL-Antwort aus.
     tree = ET.parse(filepath_of_response)
     root = tree.getroot()
@@ -88,15 +82,17 @@ def run_for_disease(smi_path, disease_dir):  # Ruft die notwendigen Funktionen a
 
     for string in strings:
         strings_input = string[0]
-        chembl_id_input = string[1][:-1]
+        chembl_id = string[1][:-1]
 
-        filepath = make_file_path(disease_dir, chembl_id_input)
+        filename = "substructure_results_" + chembl_id + ".xml"
+        filepath = os.path.join(disease_dir, filename)
+
         substructure_results = substructure_search(strings_input, filepath)
         store_file(substructure_results, filepath)
         found = get_max_phase(filepath)
 
         if len(found):
-            disease_found.update({chembl_id_input: found})
+            disease_found.update({chembl_id: found})
 
     return disease_found
 
