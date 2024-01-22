@@ -4,6 +4,6 @@ Tropical diseases pose an extreme threat to the local population in the areas wh
 
 Due to the publication of the AlphaFold2 paper in July 2021 and the simultaneously published database of three-dimensional protein models as well as the Galaxy Server of the University of Freiburg, we got good conditions to search for potential active agents against tropical diseases with the help of protein-ligand docking.
 
-[Read research paper](<docs/Schriftliche Arbeit/out/Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arbeit - Kevin Kretz, German Esaulkov, Leander Schäfer.pdf>)
+[Read research paper](<https://cdn.thekevinkretz.com/Jugend forscht 2022 - Protein-Liganden-Docking - Schriftliche Arbeit - Kevin Kretz, German Esaulkov, Leander Schäfer.pdf>)
 
 _Kevin Kretz, German Esaulkov, Leander Schäfer_
